@@ -179,30 +179,37 @@ black 25%);
 
 <!-- ==================== WHO CAN TAKE PART? ==================== -->
 
-<div style="display:grid;grid-template-columns:1.5fr 1fr;gap:30px;background:#f5fbff;border-left:6px solid #1f77b4;padding:28px;border-radius:14px;margin:50px 0;align-items:center;">
+<div style="display:grid;
+grid-template-columns:1.4fr 1fr;
+gap:25px;
+background:#f5fbff;
+border-left:6px solid #1f77b4;
+padding:18px 24px;
+border-radius:14px;
+margin:40px 0;
+align-items:center;">
 
-  <div>
+<div>
 
-    <h2>Who can take part?</h2>
+<h2 style="margin-top:0;">Who can take part?</h2>
 
-    <p><strong>Neurodivergent children aged 7–18 years</strong></p>
+<p style="margin-bottom:10px;">
+<strong>Neurodivergent children aged 7–18 years.</strong>
+</p>
 
-    <ul>
-      <li>Child-friendly research study</li>
-      <li>Participation is entirely voluntary</li>
-      <li>Parents or carers are welcome throughout the visit</li>
-      <li>Conducted at Trinity College Dublin</li>
-    </ul>
+<p style="margin:0;line-height:1.5;">
+Child-friendly research at Trinity College Dublin. Participation is voluntary, and parents or carers are welcome throughout the visit.
+</p>
 
-  </div>
+</div>
 
-  <div style="text-align:center;">
+<div style="text-align:center;">
 
-    <img src="{{ '/children.png' | relative_url }}"
-         alt="Illustration of children"
-         style="max-width:100%;border-radius:12px;">
+<img src="children.png"
+alt="Illustration of children"
+style="max-width:85%;border-radius:12px;">
 
-  </div>
+</div>
 
 </div>
 
