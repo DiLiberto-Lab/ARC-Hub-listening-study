@@ -7,11 +7,19 @@ title: ARC-HUB
 
 <div align="center">
 
-<img src="{{ site.baseurl }}/Hero%20ARC%20Hub.png" alt="Child wearing EEG cap" style="max-width:100%; height:auto;">
+<h1>Improving Listening Environments for Neurodivergent Children</h1>
 
-<br>
+<img src="{{ site.baseurl }}/Hero%20ARC%20Hub.png"
+     alt="Child wearing EEG cap"
+     style="width:100%; max-width:1000px; border-radius:16px;">
 
-[**Register Your Interest**](mailto:CHALEHCA@tcd.ie)
+<p>
+<a href="mailto:CHALEHCA@tcd.ie"
+style="background:#0077b6;color:white;padding:12px 24px;
+text-decoration:none;border-radius:8px;font-weight:bold;">
+Register Your Interest
+</a>
+</p>
 
 </div>
 
