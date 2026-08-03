@@ -6,7 +6,7 @@ layout: page
 
 <div style="
 display:grid;
-grid-template-columns:1fr 1.15fr;
+grid-template-columns:1.15fr 1fr;
 align-items:stretch;
 background:linear-gradient(90deg,#ffffff 0%,#ffffff 48%,#eef9fb 100%);
 border-radius:18px;
@@ -16,20 +16,20 @@ margin-bottom:50px;">
 <!-- ==================== LEFT ==================== -->
 
 <div style="
-padding:50px;
+padding:55px 50px;
 display:flex;
 flex-direction:column;
 justify-content:center;">
 
 <h1 style="
-margin:0 0 32px;
-font-size:2.5rem;
+margin:0 0 34px;
+font-size:2.6rem;
 font-weight:700;
 line-height:1.15;
 color:#12346b;">
 
-Improving Listening Environments<br>
-for Neurodivergent Children
+Improving Listening Environments for<br>
+Neurodivergent Children
 
 </h1>
 
@@ -42,7 +42,8 @@ color:white;
 padding:14px 28px;
 border-radius:10px;
 text-decoration:none;
-font-weight:700;">
+font-weight:700;
+font-size:1rem;">
 Register Your Interest
 </a>
 
