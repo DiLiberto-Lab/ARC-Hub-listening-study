@@ -65,23 +65,22 @@ height:100%;
 object-fit:cover;
 display:block;
 
-/* Soft fade into the text area */
+/* Gentle fade only on the first part of the image */
+
 -webkit-mask-image:linear-gradient(
 to right,
 transparent 0%,
-rgba(0,0,0,.12) 8%,
-rgba(0,0,0,.35) 16%,
-rgba(0,0,0,.7) 24%,
-black 32%
+rgba(0,0,0,.45) 6%,
+rgba(0,0,0,.85) 10%,
+black 14%
 );
 
 mask-image:linear-gradient(
 to right,
 transparent 0%,
-rgba(0,0,0,.12) 8%,
-rgba(0,0,0,.35) 16%,
-rgba(0,0,0,.7) 24%,
-black 32%
+rgba(0,0,0,.45) 6%,
+rgba(0,0,0,.85) 10%,
+black 14%
 );
 ">
 
