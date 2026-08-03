@@ -76,17 +76,35 @@ style="width:100%;border-radius:16px;">
 
 </div>
 
-## Who can take part?
+<div style="display:grid;grid-template-columns:1.5fr 1fr;gap:30px;
+background:#f5fbff;border-left:6px solid #1f77b4;
+padding:28px;border-radius:14px;margin:50px 0;
+align-items:center;">
 
-**Neurodivergent children aged 7–18 years**
+<div>
 
-- Child-friendly study
-- Participation is voluntary
-- Parents/carers are welcome throughout the visit
+<h2>Who can take part?</h2>
 
-![Children](/assets/images/arc-hub/children.jpg)
+<p><strong>Neurodivergent children aged 7–18 years</strong></p>
 
----
+<ul>
+<li>Child-friendly research study</li>
+<li>Participation is entirely voluntary</li>
+<li>Parents or carers are welcome throughout the visit</li>
+<li>Conducted at Trinity College Dublin</li>
+</ul>
+
+</div>
+
+<div style="text-align:center;">
+
+<img src="{{ site.baseurl }}/children.png"
+     alt="Illustration of children"
+     style="max-width:100%;border-radius:12px;">
+
+</div>
+
+</div>
 
 ## What happens on the day?
 
