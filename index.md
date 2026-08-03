@@ -314,7 +314,7 @@ Email the Research Team
 
 <a href="https://www.tcd.ie/" target="_blank">
 
-<img src="{{ '/trinity-campus.png' | relative_url }}"
+<img src="/ARC-Hub/trinity-campus.png"
 alt="Trinity College Dublin"
 style="width:100%;
 max-width:300px;
