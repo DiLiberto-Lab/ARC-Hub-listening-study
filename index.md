@@ -106,28 +106,43 @@ align-items:center;">
 
 </div>
 
-## What happens on the day?
+<h2>What happens on the day?</h2>
 
-| Step | Activity |
-|------|----------|
-| 1️⃣ | Meet the research team |
-| 2️⃣ | Learn about today's visit |
-| 3️⃣ | EEG cap is fitted |
-| 4️⃣ | Listen to short stories |
-| 5️⃣ | Answer a few simple questions |
-| 6️⃣ | Finish and receive thanks |
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:20px;margin:30px 0;">
+
+<div style="text-align:center;">
+<img src="{{ site.baseurl }}/welcome.png" style="width:100%;border-radius:12px;">
+<h3>1. Welcome</h3>
+<p>Meet the research team and have a look around.</p>
+</div>
+
+<div style="text-align:center;">
+<img src="{{ site.baseurl }}/eeg-cap.png" style="width:100%;border-radius:12px;">
+<h3>2. EEG Cap</h3>
+<p>We gently fit a comfortable EEG cap.</p>
+</div>
+
+<div style="text-align:center;">
+<img src="{{ site.baseurl }}/listening.png" style="width:100%;border-radius:12px;">
+<h3>3. Listening</h3>
+<p>Listen to short stories through headphones.</p>
+</div>
+
+<div style="text-align:center;">
+<img src="{{ site.baseurl }}/questions.png" style="width:100%;border-radius:12px;">
+<h3>4. Questions</h3>
+<p>Answer a few simple questions about the stories.</p>
+</div>
+
+<div style="text-align:center;">
+<img src="{{ site.baseurl }}/finish.png" style="width:100%;border-radius:12px;">
+<h3>5. Finished!</h3>
+<p>Remove the EEG cap and you're all done.</p>
+</div>
+
+</div>
 
 ![Visit timeline](/assets/images/arc-hub/timeline.jpg)
-
----
-
-## Social Story
-
-We have created a social story so children and families know exactly what to expect before arriving.
-
-📄 **[Download the Social Story (PDF)](/assets/files/social-story.pdf)**
-
-![Social Story](/assets/images/arc-hub/social-story.jpg)
 
 ---
 
