@@ -170,7 +170,12 @@ align-items:center;">
 
 <details>
 <summary><strong>Where does the study take place?</strong></summary>
-<p>Trinity College Dublin.</p>
+<p>The Lloyd Instiute, Trinity College Dublin. We will meet you in the lobby!</p>
+</details>
+
+<details style="margin-bottom:12px;">
+<summary><strong>Is there parking?</strong></summary>
+<p>---</p>
 </details>
 
 # Contact
