@@ -3,8 +3,6 @@ layout: page
 title: ARC-HUB
 ---
 
-# Improving Listening Environments for Neurodivergent Children
-
 <div align="center">
 
 <h1>Improving Listening Environments for Neurodivergent Children</h1>
