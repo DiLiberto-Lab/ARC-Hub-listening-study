@@ -7,7 +7,7 @@ title: ARC-HUB
 
 <div align="center">
 
-![Child wearing EEG cap](hero ARC Hub.jpg)
+![Child wearing EEG cap](Hero ARC Hub.png)
 
 <br>
 
