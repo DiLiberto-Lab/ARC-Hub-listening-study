@@ -23,15 +23,28 @@ Register Your Interest
 
 ---
 
+<div style="display:grid;grid-template-columns:1.2fr 1fr;gap:40px;align-items:center;margin:50px 0;">
+
+<div>
+
 ## Why are we doing this?
 
-Many neurodivergent children find it difficult to focus on speech in busy listening environments such as classrooms. Our research uses child-friendly EEG recordings to understand how the brain processes speech in these situations.
+Many neurodivergent children find it difficult to focus on speech in busy listening environments such as classrooms.
 
-The findings will help guide future listening technologies and environments that better support neurodivergent children at home and at school.
+Our research uses child-friendly EEG to understand how the brain processes speech in these situations.
 
-![Busy classroom](/assets/images/arc-hub/classroom.jpg)
+Our findings will help guide future listening technologies and environments that better support neurodivergent children at home and at school.
 
----
+</div>
+
+<div>
+
+<img src="{{ site.baseurl }}/Classroom.png"
+style="width:100%;border-radius:16px;">
+
+</div>
+
+</div>
 
 # What's involved?
 
