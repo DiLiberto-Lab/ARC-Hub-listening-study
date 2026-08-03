@@ -8,7 +8,7 @@ layout: page
 display:grid;
 grid-template-columns:1.15fr 1fr;
 align-items:stretch;
-background:linear-gradient(90deg,#ffffff 0%,#ffffff 48%,#eef9fb 100%);
+background:linear-gradient(90deg,#ffffff 0%,#ffffff 50%,#eef9fb 100%);
 border-radius:18px;
 overflow:hidden;
 margin-bottom:50px;">
@@ -19,7 +19,8 @@ margin-bottom:50px;">
 padding:55px 50px;
 display:flex;
 flex-direction:column;
-justify-content:center;">
+justify-content:center;
+z-index:2;">
 
 <h1 style="
 margin:0 0 34px;
@@ -62,7 +63,27 @@ style="
 width:100%;
 height:100%;
 object-fit:cover;
-display:block;">
+display:block;
+
+/* Soft fade into the text area */
+-webkit-mask-image:linear-gradient(
+to right,
+transparent 0%,
+rgba(0,0,0,.12) 8%,
+rgba(0,0,0,.35) 16%,
+rgba(0,0,0,.7) 24%,
+black 32%
+);
+
+mask-image:linear-gradient(
+to right,
+transparent 0%,
+rgba(0,0,0,.12) 8%,
+rgba(0,0,0,.35) 16%,
+rgba(0,0,0,.7) 24%,
+black 32%
+);
+">
 
 </div>
 
