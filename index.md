@@ -8,14 +8,10 @@ layout: page
 
   <div style="padding:60px 40px 60px 55px;display:flex;flex-direction:column;justify-content:center;z-index:2;">
 
-    <h1 style="margin:0;font-size:4.2rem;font-weight:800;line-height:0.95;color:#12346b;">
-      ARC-HUB
-    </h1>
-
-    <h2 style="margin:20px 0 35px;font-size:2.1rem;font-weight:700;line-height:1.2;color:#12346b;">
+    <h1 style="margin:0 0 35px;font-size:2.7rem;font-weight:700;line-height:1.2;color:#12346b;">
       Improving Listening Environments<br>
       for Neurodivergent Children
-    </h2>
+    </h1>
 
     <a href="mailto:CHALEHCA@tcd.ie"
        style="display:inline-block;align-self:flex-start;background:#079c9f;color:white;padding:15px 30px;border-radius:10px;font-weight:700;text-decoration:none;font-size:1.05rem;">
@@ -33,7 +29,6 @@ layout: page
   </div>
 
 </div>
-
 
 <!-- ==================== WHY THIS RESEARCH? ==================== -->
 
