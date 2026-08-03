@@ -178,15 +178,59 @@ align-items:center;">
 <p>---</p>
 </details>
 
-# Contact
+---
 
-**Email:** CHALEHCA@tcd.ie
+<hr style="margin:60px 0;">
 
-Scan the QR code below to learn more.
+<div style="display:grid;
+grid-template-columns:2fr 1fr;
+gap:40px;
+align-items:center;">
 
-| Email | QR Code |
-|-------|---------|
-| CHALEHCA@tcd.ie | ![QR Code](/assets/images/arc-hub/qr-code.png) |
+<div>
+
+<h2>Get in Touch</h2>
+
+<p>We'd be delighted to answer any questions you may have about taking part.</p>
+
+<p><strong>Email:</strong> CHALEHCA@tcd.ie</p>
+
+<p>
+<a href="mailto:CHALEHCA@tcd.ie"
+style="background:#0077b6;
+color:white;
+padding:12px 22px;
+border-radius:8px;
+text-decoration:none;
+font-weight:bold;
+display:inline-block;
+margin-top:10px;">
+Email the Research Team
+</a>
+</p>
+
+</div>
+
+<div style="text-align:center;">
+
+<a href="{{ site.baseurl }}/Participant-Information-Sheet.pdf"
+style="background:#28a745;
+color:white;
+padding:16px 24px;
+border-radius:10px;
+text-decoration:none;
+font-weight:bold;
+display:inline-block;">
+📄 Download Participant Information Sheet
+</a>
+
+<p style="margin-top:15px;">
+<small>Read the full study information before deciding whether to take part.</small>
+</p>
+
+</div>
+
+</div>
 
 ---
 
