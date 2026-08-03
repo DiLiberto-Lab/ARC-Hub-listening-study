@@ -1,4 +1,4 @@
-# ARC-HUB Webpage Prototype
+# ARC-HUB Webpage Draft
 
 This repository contains a prototype webpage for the ARC-HUB participant recruitment page.
 
@@ -7,4 +7,4 @@ Contents:
 - Images used on the page
 - Participant Information Sheet (PDF) - not created yet. To be added. 
 
-The webpage is intended as a design prototype to be recreated within the Di Liberto Lab website.
+The webpage is intended as a design prototype to be finalised and added to the Di Liberto Lab website.
