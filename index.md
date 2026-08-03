@@ -146,44 +146,32 @@ align-items:center;">
 
 ---
 
-## Frequently Asked Questions
+<h2>Frequently Asked Questions</h2>
 
-<details>
+<details style="margin-bottom:12px;">
 <summary><strong>Does the EEG hurt?</strong></summary>
-
-No. EEG is completely non-invasive and painless.
-
+<p>No. EEG is completely painless and non-invasive.</p>
 </details>
 
-<details>
-<summary><strong>Can parents stay during the session?</strong></summary>
-
-Yes.
-
+<details style="margin-bottom:12px;">
+<summary><strong>Can parents stay during the visit?</strong></summary>
+<p>Yes, parents or carers are welcome throughout the study visit.</p>
 </details>
 
-<details>
-<summary><strong>Can we stop at any time?</strong></summary>
+<details style="margin-bottom:12px;">
+<summary><strong>Can my child stop at any time?</strong></summary>
+<p>Yes. Participation is voluntary and you can withdraw at any stage.</p>
+</details>
 
-Yes. Participation is entirely voluntary.
-
+<details style="margin-bottom:12px;">
+<summary><strong>How long does the study take?</strong></summary>
+<p>The listening task takes around 20 minutes, with extra time for preparation.</p>
 </details>
 
 <details>
 <summary><strong>Where does the study take place?</strong></summary>
-
-Trinity College Dublin.
-
+<p>Trinity College Dublin.</p>
 </details>
-
-<details>
-<summary><strong>How long does it take?</strong></summary>
-
-Around 20 minutes.
-
-</details>
-
----
 
 # Contact
 
