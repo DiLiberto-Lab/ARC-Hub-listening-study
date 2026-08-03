@@ -4,8 +4,9 @@ layout: page
 
 <!-- ==================== HERO SECTION ==================== -->
 
-<div style="display:grid;
-grid-template-columns:1.1fr 1.2fr;
+<div style="
+display:grid;
+grid-template-columns:1.05fr 1.25fr;
 align-items:center;
 background:linear-gradient(90deg,#ffffff 0%,#ffffff 48%,#eef9fb 100%);
 border-radius:18px;
@@ -13,9 +14,10 @@ overflow:hidden;
 margin-bottom:50px;
 min-height:330px;">
 
-<!-- LEFT -->
+<!-- ==================== LEFT ==================== -->
 
-<div style="padding:40px 35px 40px 50px;">
+<div style="
+padding:40px 35px 40px 50px;">
 
 <h1 style="
 margin:0 0 30px;
@@ -43,12 +45,37 @@ Register Your Interest
 
 </div>
 
-<!-- RIGHT -->
+<!-- ==================== RIGHT ==================== -->
 
-<div style="margin-left:-40px;">
+<div style="
+position:relative;
+margin-left:-40px;">
+
+<!-- Trinity Logo -->
+
+<a href="https://www.tcd.ie/" target="_blank">
 
 <img
-src="{{ '/Hero ARC Hub.png' | relative_url }}"
+src="trinity-logo.jpg"
+alt="Trinity College Dublin"
+style="
+position:absolute;
+top:20px;
+right:20px;
+height:58px;
+width:auto;
+background:white;
+padding:8px 10px;
+border-radius:10px;
+box-shadow:0 3px 12px rgba(0,0,0,0.15);
+z-index:20;">
+
+</a>
+
+<!-- Hero Image -->
+
+<img
+src="Hero ARC Hub.png"
 alt="Child wearing an EEG cap"
 style="
 width:100%;
