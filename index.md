@@ -1,6 +1,5 @@
 ---
 layout: page
-title: ARC-HUB
 ---
 
 <div style="
