@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ARC-HUB
-permalink: /arc-hub/
 ---
 
 # Improving Listening Environments for Neurodivergent Children
