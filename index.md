@@ -47,32 +47,7 @@ Register Your Interest
 
 <!-- ==================== RIGHT ==================== -->
 
-<div style="
-position:relative;
-margin-left:-40px;">
-
-<!-- Trinity Logo -->
-
-<a href="https://www.tcd.ie/" target="_blank">
-
-<img
-src="trinity-logo.jpg"
-alt="Trinity College Dublin"
-style="
-position:absolute;
-top:20px;
-right:20px;
-height:58px;
-width:auto;
-background:white;
-padding:8px 10px;
-border-radius:10px;
-box-shadow:0 3px 12px rgba(0,0,0,0.15);
-z-index:20;">
-
-</a>
-
-<!-- Hero Image -->
+<div style="margin-left:-40px;">
 
 <img
 src="Hero ARC Hub.png"
