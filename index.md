@@ -27,7 +27,7 @@ Register Your Interest
 
 <div>
 
-## Why are we doing this?
+<h2>Why are we doing this?</h2>
 
 Many neurodivergent children find it difficult to focus on speech in busy listening environments such as classrooms.
 
