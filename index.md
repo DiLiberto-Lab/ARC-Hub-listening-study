@@ -39,7 +39,7 @@ Our findings will help guide future listening technologies and environments that
 
 <div>
 
-<img src="{{ site.baseurl }}/Classroom.png"
+<img src="{{ site.baseurl }}/Classroom.png.png"
 style="width:100%;border-radius:16px;">
 
 </div>
