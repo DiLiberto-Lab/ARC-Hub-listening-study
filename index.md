@@ -6,8 +6,8 @@ layout: page
 
 <div style="
 display:grid;
-grid-template-columns:1fr 1.2fr;
-align-items:center;
+grid-template-columns:1fr 1.15fr;
+align-items:stretch;
 background:linear-gradient(90deg,#ffffff 0%,#ffffff 48%,#eef9fb 100%);
 border-radius:18px;
 overflow:hidden;
@@ -22,7 +22,7 @@ flex-direction:column;
 justify-content:center;">
 
 <h1 style="
-margin:0 0 30px;
+margin:0 0 32px;
 font-size:2.5rem;
 font-weight:700;
 line-height:1.15;
@@ -50,18 +50,18 @@ Register Your Interest
 
 <!-- ==================== RIGHT ==================== -->
 
-<div>
+<div style="
+height:100%;
+overflow:hidden;">
 
 <img
 src="Hero ARC Hub.png"
 alt="Child wearing an EEG cap"
 style="
 width:100%;
-height:360px;
+height:100%;
 object-fit:cover;
-display:block;
-border-top-right-radius:18px;
-border-bottom-right-radius:18px;">
+display:block;">
 
 </div>
 
