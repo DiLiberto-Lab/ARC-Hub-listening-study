@@ -168,11 +168,10 @@ align-items:center;">
 <p>The listening task takes around 20 minutes, with extra time for preparation.</p>
 </details>
 
-<details>
+<details style="margin-bottom:12px;">
 <summary><strong>Where does the study take place?</strong></summary>
-<p>The Lloyd Instiute, Trinity College Dublin. We will meet you in the lobby!</p>
+<p>The Lloyd Institute, Trinity College Dublin. We will meet you in the lobby!</p>
 </details>
-
 
 <details style="margin-bottom:12px;">
 <summary><strong>Is there parking?</strong></summary>
