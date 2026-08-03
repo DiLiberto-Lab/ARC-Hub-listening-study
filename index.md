@@ -312,11 +312,15 @@ Email the Research Team
 
 <div style="text-align:center;">
 
-<img src="{{ '/trinity-campus.jpg' | relative_url }}"
+<a href="https://www.tcd.ie/" target="_blank">
+
+<img src="{{ '/trinity-campus.png' | relative_url }}"
 alt="Trinity College Dublin"
 style="width:100%;
 max-width:300px;
 border-radius:14px;">
+
+</a>
 
 <p style="margin-top:10px;">
 <small>Study visits take place at Trinity College Dublin.</small>
