@@ -230,6 +230,39 @@ display:inline-block;">
 
 </div>
 
+---
+<hr style="margin:60px 0;">
+
+<h2>Meet the Research Team</h2>
+
+<div style="display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:25px;
+margin-top:25px;">
+
+<div style="text-align:center;background:#f8f9fa;padding:25px;border-radius:14px;">
+
+<img src="{{ site.baseurl }}/researcher1.jpg"
+style="width:150px;height:150px;object-fit:cover;border-radius:50%;">
+
+<h3>Dr Giovanni Di Liberto</h3>
+
+<p>Principal Investigator</p>
+
+</div>
+
+<div style="text-align:center;background:#f8f9fa;padding:25px;border-radius:14px;">
+
+<img src="{{ site.baseurl }}/researcher2.jpg"
+style="width:150px;height:150px;object-fit:cover;border-radius:50%;">
+
+<h3>Research Team</h3>
+
+<p>Friendly researchers who will guide your family throughout the visit.</p>
+
+</div>
+
+</div>
 </div>
 
 ---
