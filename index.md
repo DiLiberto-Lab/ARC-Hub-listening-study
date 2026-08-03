@@ -4,29 +4,68 @@ layout: page
 
 <!-- ==================== HERO SECTION ==================== -->
 
-<div style="display:grid;grid-template-columns:1fr 1.3fr;align-items:center;background:linear-gradient(90deg,#ffffff 0%,#ffffff 45%,#eef9fb 100%);border-radius:18px;overflow:hidden;margin-bottom:60px;min-height:460px;">
+<div style="display:grid;
+grid-template-columns:1.1fr 1.2fr;
+align-items:center;
+background:linear-gradient(90deg,#ffffff 0%,#ffffff 48%,#eef9fb 100%);
+border-radius:18px;
+overflow:hidden;
+margin-bottom:50px;
+min-height:330px;">
 
-  <div style="padding:60px 40px 60px 55px;display:flex;flex-direction:column;justify-content:center;z-index:2;">
+<!-- LEFT -->
 
-    <h1 style="margin:0 0 35px;font-size:2.7rem;font-weight:700;line-height:1.2;color:#12346b;">
-      Improving Listening Environments<br>
-      for Neurodivergent Children
-    </h1>
+<div style="padding:40px 35px 40px 50px;">
 
-    <a href="mailto:CHALEHCA@tcd.ie"
-       style="display:inline-block;align-self:flex-start;background:#079c9f;color:white;padding:15px 30px;border-radius:10px;font-weight:700;text-decoration:none;font-size:1.05rem;">
-      Register Your Interest
-    </a>
+<h1 style="
+margin:0 0 30px;
+font-size:2.4rem;
+font-weight:700;
+line-height:1.15;
+color:#12346b;">
 
-  </div>
+Improving Listening Environments<br>
+for Neurodivergent Children
 
-  <div style="position:relative;height:100%;margin-left:-70px;">
+</h1>
 
-    <img src="{{ '/Hero ARC Hub.png' | relative_url }}"
-         alt="Child wearing an EEG cap"
-         style="width:100%;height:100%;min-height:460px;object-fit:cover;object-position:center;display:block;-webkit-mask-image:linear-gradient(to right,transparent 0%,rgba(0,0,0,.15) 8%,rgba(0,0,0,.5) 14%,black 22%);mask-image:linear-gradient(to right,transparent 0%,rgba(0,0,0,.15) 8%,rgba(0,0,0,.5) 14%,black 22%);">
+<a href="mailto:CHALEHCA@tcd.ie"
+style="
+display:inline-block;
+background:#079c9f;
+color:white;
+padding:14px 28px;
+border-radius:10px;
+text-decoration:none;
+font-weight:700;">
+Register Your Interest
+</a>
 
-  </div>
+</div>
+
+<!-- RIGHT -->
+
+<div style="margin-left:-40px;">
+
+<img
+src="{{ '/Hero ARC Hub.png' | relative_url }}"
+alt="Child wearing an EEG cap"
+style="
+width:100%;
+height:330px;
+object-fit:cover;
+display:block;
+-webkit-mask-image:linear-gradient(to right,
+transparent 0%,
+rgba(0,0,0,.35) 12%,
+black 25%);
+mask-image:linear-gradient(to right,
+transparent 0%,
+rgba(0,0,0,.35) 12%,
+black 25%);
+">
+
+</div>
 
 </div>
 
