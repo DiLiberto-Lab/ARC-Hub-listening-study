@@ -6,22 +6,24 @@ layout: page
 
 <div style="
 display:grid;
-grid-template-columns:1.05fr 1.25fr;
+grid-template-columns:1fr 1.2fr;
 align-items:center;
 background:linear-gradient(90deg,#ffffff 0%,#ffffff 48%,#eef9fb 100%);
 border-radius:18px;
 overflow:hidden;
-margin-bottom:50px;
-min-height:330px;">
+margin-bottom:50px;">
 
 <!-- ==================== LEFT ==================== -->
 
 <div style="
-padding:40px 35px 40px 50px;">
+padding:50px;
+display:flex;
+flex-direction:column;
+justify-content:center;">
 
 <h1 style="
 margin:0 0 30px;
-font-size:2.4rem;
+font-size:2.5rem;
 font-weight:700;
 line-height:1.15;
 color:#12346b;">
@@ -34,6 +36,7 @@ for Neurodivergent Children
 <a href="mailto:CHALEHCA@tcd.ie"
 style="
 display:inline-block;
+align-self:flex-start;
 background:#079c9f;
 color:white;
 padding:14px 28px;
@@ -47,25 +50,18 @@ Register Your Interest
 
 <!-- ==================== RIGHT ==================== -->
 
-<div style="margin-left:-40px;">
+<div>
 
 <img
 src="Hero ARC Hub.png"
 alt="Child wearing an EEG cap"
 style="
 width:100%;
-height:330px;
+height:360px;
 object-fit:cover;
 display:block;
--webkit-mask-image:linear-gradient(to right,
-transparent 0%,
-rgba(0,0,0,.35) 12%,
-black 25%);
-mask-image:linear-gradient(to right,
-transparent 0%,
-rgba(0,0,0,.35) 12%,
-black 25%);
-">
+border-top-right-radius:18px;
+border-bottom-right-radius:18px;">
 
 </div>
 
