@@ -267,4 +267,8 @@ style="width:150px;height:150px;object-fit:cover;border-radius:50%;">
 
 ---
 
-> This study has received ethical approval from the Trinity College Dublin Research Ethics Committee. Participation is voluntary and you may withdraw at any time.
+<hr style="margin-top:60px;">
+
+<p style="font-size:0.9em;color:#666;text-align:center;max-width:800px;margin:auto;">
+This study has received ethical approval from the Trinity College Dublin Research Ethics Committee. Participation is voluntary, and you may withdraw from the study at any time without giving a reason.
+</p>
