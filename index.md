@@ -35,11 +35,33 @@ The findings will help guide future listening technologies and environments that
 
 # What's involved?
 
-| 🎧 Listen | 💬 Questions | 🧠 EEG | ⏱ Time |
-|:---------:|:------------:|:------:|:------:|
-| Listen to short stories through headphones | Answer a few simple questions afterwards | We record brain activity using a comfortable EEG cap | Around 20 minutes |
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px;margin:24px 0;">
 
----
+<div style="background:#eaf7fb;padding:20px;border-radius:14px;text-align:center;">
+<div style="font-size:34px;">🎧</div>
+<h3>Listen</h3>
+<p>Listen to short stories through headphones.</p>
+</div>
+
+<div style="background:#f2edff;padding:20px;border-radius:14px;text-align:center;">
+<div style="font-size:34px;">💬</div>
+<h3>Questions</h3>
+<p>Answer a few simple questions about the stories.</p>
+</div>
+
+<div style="background:#eaf8ef;padding:20px;border-radius:14px;text-align:center;">
+<div style="font-size:34px;">🧠</div>
+<h3>EEG</h3>
+<p>We record brain activity using a comfortable EEG cap.</p>
+</div>
+
+<div style="background:#fff3e8;padding:20px;border-radius:14px;text-align:center;">
+<div style="font-size:34px;">⏱</div>
+<h3>Time</h3>
+<p>The listening task takes around 20 minutes.</p>
+</div>
+
+</div>
 
 ## Who can take part?
 
