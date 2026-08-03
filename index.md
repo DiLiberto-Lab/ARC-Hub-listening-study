@@ -3,21 +3,79 @@ layout: page
 title: ARC-HUB
 ---
 
-<div align="center">
+<div style="
+display:grid;
+grid-template-columns:1fr 1.35fr;
+align-items:stretch;
+background:linear-gradient(90deg,#ffffff 0%,#ffffff 42%,#eefafa 68%,#dff5f7 100%);
+border-radius:18px;
+overflow:hidden;
+margin-bottom:50px;
+">
 
-<h1>Improving Listening Environments for Neurodivergent Children</h1>
+<div style="
+padding:55px 30px 55px 45px;
+display:flex;
+flex-direction:column;
+justify-content:center;
+z-index:2;
+">
 
-<img src="{{ site.baseurl }}/Hero%20ARC%20Hub.png"
-     alt="Child wearing EEG cap"
-     style="width:100%; max-width:1000px; border-radius:16px;">
+<h1 style="
+font-size:3rem;
+line-height:1.08;
+margin:0 0 22px 0;
+color:#12346b;
+">
+Improving Listening Environments for Neurodivergent Children
+</h1>
 
-<p>
+<p style="
+font-size:1.1rem;
+line-height:1.6;
+max-width:520px;
+margin:0 0 28px 0;
+">
+We are researching how children’s brains process speech in busy environments, with the aim of helping shape future listening technologies and environments.
+</p>
+
+<p style="margin:0;">
 <a href="mailto:CHALEHCA@tcd.ie"
-style="background:#0077b6;color:white;padding:12px 24px;
-text-decoration:none;border-radius:8px;font-weight:bold;">
+style="
+background:#079c9f;
+color:white;
+padding:14px 26px;
+text-decoration:none;
+border-radius:9px;
+font-weight:bold;
+display:inline-block;
+">
 Register Your Interest
 </a>
 </p>
+
+</div>
+
+<div style="
+position:relative;
+min-height:430px;
+margin-left:-45px;
+">
+
+<img src="{{ site.baseurl }}/Hero%20ARC%20Hub.png"
+alt="Child wearing EEG cap"
+style="
+width:100%;
+height:100%;
+min-height:430px;
+object-fit:cover;
+object-position:center;
+display:block;
+-webkit-mask-image:linear-gradient(to right,transparent 0%,black 20%);
+mask-image:linear-gradient(to right,transparent 0%,black 20%);
+">
+
+</div>
 
 </div>
 
