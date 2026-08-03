@@ -129,36 +129,6 @@ black 25%);
 </div>
 
 
-<!-- ==================== WHO CAN TAKE PART? ==================== -->
-
-<div style="display:grid;grid-template-columns:1.5fr 1fr;gap:30px;background:#f5fbff;border-left:6px solid #1f77b4;padding:28px;border-radius:14px;margin:50px 0;align-items:center;">
-
-  <div>
-
-    <h2>Who can take part?</h2>
-
-    <p><strong>Neurodivergent children aged 7–18 years</strong></p>
-
-    <ul>
-      <li>Child-friendly research study</li>
-      <li>Participation is entirely voluntary</li>
-      <li>Parents or carers are welcome throughout the visit</li>
-      <li>Conducted at Trinity College Dublin</li>
-    </ul>
-
-  </div>
-
-  <div style="text-align:center;">
-
-    <img src="{{ '/children.png' | relative_url }}"
-         alt="Illustration of children"
-         style="max-width:100%;border-radius:12px;">
-
-  </div>
-
-</div>
-
-
 <!-- ==================== WHAT HAPPENS ON THE DAY? ==================== -->
 
 <h2>What happens on the day?</h2>
@@ -203,6 +173,35 @@ black 25%);
          style="width:100%;border-radius:12px;">
     <h3>5. Finished!</h3>
     <p>Remove the EEG cap and you are all done.</p>
+  </div>
+
+</div>
+
+<!-- ==================== WHO CAN TAKE PART? ==================== -->
+
+<div style="display:grid;grid-template-columns:1.5fr 1fr;gap:30px;background:#f5fbff;border-left:6px solid #1f77b4;padding:28px;border-radius:14px;margin:50px 0;align-items:center;">
+
+  <div>
+
+    <h2>Who can take part?</h2>
+
+    <p><strong>Neurodivergent children aged 7–18 years</strong></p>
+
+    <ul>
+      <li>Child-friendly research study</li>
+      <li>Participation is entirely voluntary</li>
+      <li>Parents or carers are welcome throughout the visit</li>
+      <li>Conducted at Trinity College Dublin</li>
+    </ul>
+
+  </div>
+
+  <div style="text-align:center;">
+
+    <img src="{{ '/children.png' | relative_url }}"
+         alt="Illustration of children"
+         style="max-width:100%;border-radius:12px;">
+
   </div>
 
 </div>
@@ -280,35 +279,71 @@ black 25%);
 
 <hr style="margin:60px 0;">
 
-<div style="display:grid;grid-template-columns:2fr 1fr;gap:40px;align-items:center;">
+<div style="display:grid;
+grid-template-columns:1.2fr 1fr 1fr;
+gap:30px;
+align-items:center;">
 
-  <div>
+<!-- CONTACT -->
 
-    <h2>Get in Touch</h2>
+<div>
 
-    <p>We would be delighted to answer any questions you may have about taking part.</p>
+<h2>Get in Touch</h2>
 
-    <p><strong>Email:</strong> CHALEHCA@tcd.ie</p>
+<p>We would be delighted to answer any questions you may have about taking part.</p>
 
-    <a href="mailto:CHALEHCA@tcd.ie"
-       style="background:#0077b6;color:white;padding:12px 22px;border-radius:8px;text-decoration:none;font-weight:bold;display:inline-block;margin-top:10px;">
-      Email the Research Team
-    </a>
+<p><strong>Email:</strong><br>CHALEHCA@tcd.ie</p>
 
-  </div>
+<a href="mailto:CHALEHCA@tcd.ie"
+style="background:#0077b6;
+color:white;
+padding:12px 22px;
+border-radius:8px;
+text-decoration:none;
+font-weight:bold;
+display:inline-block;
+margin-top:10px;">
+Email the Research Team
+</a>
 
-  <div style="text-align:center;">
+</div>
 
-    <a href="{{ '/Participant-Information-Sheet.pdf' | relative_url }}"
-       style="background:#28a745;color:white;padding:16px 24px;border-radius:10px;text-decoration:none;font-weight:bold;display:inline-block;">
-      📄 Download Participant Information Sheet
-    </a>
+<!-- TRINITY IMAGE -->
 
-    <p style="margin-top:15px;">
-      <small>Read the full study information before deciding whether to take part.</small>
-    </p>
+<div style="text-align:center;">
 
-  </div>
+<img src="{{ '/trinity-campus.jpg' | relative_url }}"
+alt="Trinity College Dublin"
+style="width:100%;
+max-width:300px;
+border-radius:14px;">
+
+<p style="margin-top:10px;">
+<small>Study visits take place at Trinity College Dublin.</small>
+</p>
+
+</div>
+
+<!-- PARTICIPANT INFORMATION -->
+
+<div style="text-align:center;">
+
+<a href="{{ '/Participant-Information-Sheet.pdf' | relative_url }}"
+style="background:#28a745;
+color:white;
+padding:16px 24px;
+border-radius:10px;
+text-decoration:none;
+font-weight:bold;
+display:inline-block;">
+📄 Download Participant Information Sheet
+</a>
+
+<p style="margin-top:15px;">
+<small>Read the full study information before deciding whether to take part.</small>
+</p>
+
+</div>
 
 </div>
 
