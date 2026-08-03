@@ -5,16 +5,19 @@ title: ARC-HUB
 
 <div style="
 display:grid;
-grid-template-columns:1fr 1.35fr;
-align-items:stretch;
-background:linear-gradient(90deg,#ffffff 0%,#ffffff 42%,#eefafa 68%,#dff5f7 100%);
+grid-template-columns:1fr 1.3fr;
+align-items:center;
+background:linear-gradient(90deg,#ffffff 0%,#ffffff 45%,#eef9fb 100%);
 border-radius:18px;
 overflow:hidden;
-margin-bottom:50px;
+margin-bottom:60px;
+min-height:460px;
 ">
 
+<!-- LEFT SIDE -->
+
 <div style="
-padding:55px 30px 55px 45px;
+padding:60px 40px 60px 55px;
 display:flex;
 flex-direction:column;
 justify-content:center;
@@ -22,57 +25,73 @@ z-index:2;
 ">
 
 <h1 style="
-font-size:3rem;
-line-height:1.08;
-margin:0 0 22px 0;
+margin:0;
+font-size:4.2rem;
+font-weight:800;
+line-height:0.95;
 color:#12346b;
 ">
-Improving Listening Environments for Neurodivergent Children
+ARC-HUB
 </h1>
 
-<p style="
-font-size:1.1rem;
-line-height:1.6;
-max-width:520px;
-margin:0 0 28px 0;
+<h2 style="
+margin:20px 0 35px 0;
+font-size:2.1rem;
+font-weight:700;
+line-height:1.2;
+color:#12346b;
 ">
-We are researching how children’s brains process speech in busy environments, with the aim of helping shape future listening technologies and environments.
-</p>
+Improving Listening Environments<br>
+for Neurodivergent Children
+</h2>
 
-<p style="margin:0;">
 <a href="mailto:CHALEHCA@tcd.ie"
 style="
+display:inline-block;
+align-self:flex-start;
 background:#079c9f;
 color:white;
-padding:14px 26px;
+padding:15px 30px;
+border-radius:10px;
+font-weight:700;
 text-decoration:none;
-border-radius:9px;
-font-weight:bold;
-display:inline-block;
+font-size:1.05rem;
 ">
 Register Your Interest
 </a>
-</p>
 
 </div>
 
+<!-- RIGHT SIDE -->
+
 <div style="
 position:relative;
-min-height:430px;
-margin-left:-45px;
+height:100%;
+margin-left:-70px;
 ">
 
-<img src="{{ site.baseurl }}/Hero%20ARC%20Hub.png"
+<img
+src="{{ site.baseurl }}/Hero%20ARC%20Hub.png"
 alt="Child wearing EEG cap"
 style="
 width:100%;
 height:100%;
-min-height:430px;
+min-height:460px;
 object-fit:cover;
 object-position:center;
 display:block;
--webkit-mask-image:linear-gradient(to right,transparent 0%,black 20%);
-mask-image:linear-gradient(to right,transparent 0%,black 20%);
+
+/* Fade into the white background */
+-webkit-mask-image:linear-gradient(to right,
+transparent 0%,
+rgba(0,0,0,.15) 8%,
+rgba(0,0,0,.5) 14%,
+black 22%);
+mask-image:linear-gradient(to right,
+transparent 0%,
+rgba(0,0,0,.15) 8%,
+rgba(0,0,0,.5) 14%,
+black 22%);
 ">
 
 </div>
