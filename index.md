@@ -34,10 +34,16 @@ Neurodivergent People
 
 </h1>
 
-<a href="mailto:CHALEHCA@tcd.ie"
+<div style="
+display:flex;
+gap:12px;
+flex-wrap:wrap;
+align-self:flex-start;">
+
+<a href="PASTE_ADULT_GOOGLE_FORM_LINK_HERE"
+target="_blank"
 style="
 display:inline-block;
-align-self:flex-start;
 background:#079c9f;
 color:white;
 padding:14px 28px;
@@ -45,8 +51,24 @@ border-radius:10px;
 text-decoration:none;
 font-weight:700;
 font-size:1rem;">
-Register Your Interest
+Adults 18+
 </a>
+
+<a href="PASTE_CHILD_GOOGLE_FORM_LINK_HERE"
+target="_blank"
+style="
+display:inline-block;
+background:#079c9f;
+color:white;
+padding:14px 28px;
+border-radius:10px;
+text-decoration:none;
+font-weight:700;
+font-size:1rem;">
+Children 7–18
+</a>
+
+</div>
 
 </div>
 
