@@ -30,7 +30,7 @@ line-height:1.15;
 color:#12346b;">
 
 Improving Listening Environments for<br>
-Neurodivergent Children
+Neurodivergent People
 
 </h1>
 
