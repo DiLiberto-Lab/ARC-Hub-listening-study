@@ -57,7 +57,7 @@ height:100%;
 overflow:hidden;">
 
 <img
-src="Hero ARC Hub.png"
+src="Hero.png"
 alt="Child wearing an EEG cap"
 style="
 width:100%;
