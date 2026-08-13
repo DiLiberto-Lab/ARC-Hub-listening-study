@@ -43,7 +43,7 @@ align-self:flex-start;">
 <a href="(https://docs.google.com/forms/d/e/1FAIpQLSdP3h_uarIDNoNkd0FHKkyJCRcEI0Oj3-o8kw9r71HRKKfnRg/viewform?usp=sharing&ouid=106989043313353456488)"
 target="_blank"
 style="
-display:inline-block;
+display:inline-block; 
 background:#079c9f;
 color:white;
 padding:14px 28px;
@@ -51,7 +51,7 @@ border-radius:10px;
 text-decoration:none;
 font-weight:700;
 font-size:1rem;">
-Book Here 
+Book Your Slot:
 Adults 18+
 </a>
 
@@ -66,7 +66,7 @@ border-radius:10px;
 text-decoration:none;
 font-weight:700;
 font-size:1rem;">
-Book Here 
+Book Your Slot: 
 7–18 years
 </a>
 
