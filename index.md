@@ -40,7 +40,7 @@ gap:12px;
 flex-wrap:wrap;
 align-self:flex-start;">
 
-<a href="PASTE_ADULT_GOOGLE_FORM_LINK_HERE"
+<a href="(https://docs.google.com/forms/d/e/1FAIpQLSdP3h_uarIDNoNkd0FHKkyJCRcEI0Oj3-o8kw9r71HRKKfnRg/viewform?usp=sharing&ouid=106989043313353456488)"
 target="_blank"
 style="
 display:inline-block;
@@ -51,10 +51,11 @@ border-radius:10px;
 text-decoration:none;
 font-weight:700;
 font-size:1rem;">
+Book Here 
 Adults 18+
 </a>
 
-<a href="PASTE_CHILD_GOOGLE_FORM_LINK_HERE"
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd0ELz470lfPgW2tTmqMi3jN_kwTgZ168o9qkZhby9es32TbA/viewform?usp=sharing&ouid=106989043313353456488"
 target="_blank"
 style="
 display:inline-block;
@@ -65,7 +66,8 @@ border-radius:10px;
 text-decoration:none;
 font-weight:700;
 font-size:1rem;">
-Children 7–18
+Book Here 
+7–18 years
 </a>
 
 </div>
