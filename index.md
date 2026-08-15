@@ -189,7 +189,7 @@ black 14%
          alt="Researcher fitting an EEG cap"
          style="width:100%;border-radius:12px;">
     <h3>2. EEG Cap</h3>
-    <p>We gently fit a comfortable EEG cap.</p>
+    <p>Listen to short story clips with headphones and answer some simple questions.</p>
   </div>
 
   <div style="text-align:center;">
