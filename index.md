@@ -313,7 +313,7 @@ style="max-width:85%;border-radius:12px;">
 
   <div style="text-align:center;background:#f8f9fa;padding:25px;border-radius:14px;">
 
-    <img src="{{ '/researcher2.jpg' | relative_url }}"
+    <img src="{{ '/team.png' | relative_url }}"
          alt="ARC-HUB research team"
          style="width:150px;height:150px;object-fit:cover;border-radius:50%;">
 
