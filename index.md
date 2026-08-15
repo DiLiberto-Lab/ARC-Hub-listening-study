@@ -136,40 +136,6 @@ black 14%
 
 </div>
 
-
-<!-- ==================== WHAT'S INVOLVED? ==================== -->
-
-<h2>What's involved?</h2>
-
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px;margin:24px 0 50px;">
-
-  <div style="background:#eaf7fb;padding:20px;border-radius:14px;text-align:center;">
-    <div style="font-size:34px;">🎧</div>
-    <h3>Listen</h3>
-    <p>Listen to short stories through headphones.</p>
-  </div>
-
-  <div style="background:#f2edff;padding:20px;border-radius:14px;text-align:center;">
-    <div style="font-size:34px;">💬</div>
-    <h3>Questions</h3>
-    <p>Answer a few simple questions about the stories.</p>
-  </div>
-
-  <div style="background:#eaf8ef;padding:20px;border-radius:14px;text-align:center;">
-    <div style="font-size:34px;">🧠</div>
-    <h3>EEG</h3>
-    <p>We record brain activity using a comfortable EEG cap.</p>
-  </div>
-
-  <div style="background:#fff3e8;padding:20px;border-radius:14px;text-align:center;">
-    <div style="font-size:34px;">⏱</div>
-    <h3>Time</h3>
-    <p>The listening task takes around 20 minutes.</p>
-  </div>
-
-</div>
-
-
 <!-- ==================== WHAT HAPPENS ON THE DAY? ==================== -->
 
 <h2>What happens on the day?</h2>
@@ -197,7 +163,7 @@ black 14%
          alt="ECG cartoon"
          style="width:150%;height:250px;object-fit:contain;border-radius:12px;">
     <h3>3. Listening</h3>
-    <p>We will also record yoru heart with ECG sensors.</p>
+    <p>We will also record your heart with ECG sensors.</p>
   </div>
 
 </div>
