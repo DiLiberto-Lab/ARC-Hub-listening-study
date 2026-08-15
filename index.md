@@ -116,11 +116,11 @@ black 14%
 
     <h2>Why are we doing this?</h2>
 
-    <p>Many neurodivergent children find it difficult to focus on speech in busy listening environments such as classrooms.</p>
+    <p>Many neurodivergent people find it difficult to focus on speech in busy listening environments such as classrooms.</p>
 
-    <p>Our research uses child-friendly EEG to understand how the brain processes speech in these situations.</p>
+    <p>Our research uses child-friendly ECG to understand how the brain processes speech in these situations.</p>
 
-    <p>Our findings will help guide future listening technologies and environments that better support neurodivergent children at home and at school.</p>
+    <p>Our findings can help guide future listening technologies and environments that better support neurodivergent children at home and at school!</p>
 
   </div>
 
@@ -153,7 +153,7 @@ black 14%
          alt="Experiment set up"
          style="width:100%;height:300px;object-fit:cover;object-position:center;border-radius:12px;">
     <h3>2. Listening</h3>
-    <p>Listen to short story clips and answer some simple questions.</p>
+    <p>Listen to short story clips and answer some simple questions about the stories.</p>
   </div>
 
   <div style="text-align:center;">
@@ -161,7 +161,7 @@ black 14%
          alt="ECG sensor placement"
          style="width:100%;height:300px;object-fit:cover;object-position:center;border-radius:12px;">
     <h3>3. Heart Recording</h3>
-    <p>We will also record your heart with ECG sensors.</p>
+    <p>We will also record your heart with ECG sensors during the listening excercise.</p>
   </div>
 
 </div>
@@ -195,7 +195,7 @@ Child-friendly research at Trinity College Dublin. Participation is voluntary, a
 <div style="text-align:center;">
 
 <img src="children.png"
-alt="Illustration of children"
+alt="Illustration of children and young adults"
 style="max-width:85%;border-radius:12px;">
 
 </div>
@@ -208,8 +208,8 @@ style="max-width:85%;border-radius:12px;">
 <h2>Frequently Asked Questions</h2>
 
 <details style="margin-bottom:12px;">
-  <summary><strong>Does the EEG hurt?</strong></summary>
-  <p>No. EEG is completely painless and non-invasive.</p>
+  <summary><strong>Is the ECG uncomfortalbe?</strong></summary>
+  <p>No. The ECG is completely painless and non-invasive. The sensors are placed via stickers on your skin.</p>
 </details>
 
 <details style="margin-bottom:12px;">
@@ -218,13 +218,18 @@ style="max-width:85%;border-radius:12px;">
 </details>
 
 <details style="margin-bottom:12px;">
+  <summary><strong>Is the study paid?</strong></summary>
+  <p>Each participant will recieve an All4One voucher (Adults €20 per hour, Children €30 per hour).</p>
+</details>
+
+<details style="margin-bottom:12px;">
   <summary><strong>Can my child stop at any time?</strong></summary>
-  <p>Yes. Participation is voluntary, and your child can stop at any stage.</p>
+  <p>Yes. Participation is voluntary, and you can stop at any stage.</p>
 </details>
 
 <details style="margin-bottom:12px;">
   <summary><strong>How long does the study take?</strong></summary>
-  <p>The listening task takes around 20 minutes, with additional time for preparation.</p>
+  <p>About 1 hour: 30 mins for the listening task, with additional time for preparation and closing questions.</p>
 </details>
 
 <details style="margin-bottom:12px;">
@@ -234,7 +239,7 @@ style="max-width:85%;border-radius:12px;">
 
 <details style="margin-bottom:50px;">
   <summary><strong>Is there parking?</strong></summary>
-  <p>Parking information will be provided before your visit.</p>
+  <p>Parking in the city centre can be reimbursed after the study.</p>
 </details>
 
 
