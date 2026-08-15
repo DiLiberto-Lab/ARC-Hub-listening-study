@@ -143,7 +143,7 @@ black 14%
   <div style="text-align:center;">
     <img src="{{ '/Lloyd.png' | relative_url }}"
          alt="ARC-HUB research team at the Lloyd Institute"
-         style="width:100%;height:250px;object-fit:contain;border-radius:12px;">
+         style="width:100%;height:300px;object-fit:cover;object-position:center;border-radius:12px;">
     <h3>1. Welcome</h3>
     <p>Meet the research team at the Lloyd Institute, Trinity College.</p>
   </div>
@@ -151,16 +151,16 @@ black 14%
   <div style="text-align:center;">
     <img src="{{ '/Experiment.png' | relative_url }}"
          alt="Experiment set up"
-         style="width:100%;height:250px;object-fit:contain;border-radius:12px;">
-    <h3>2. EEG Cap</h3>
-    <p>Listen to short story clips with headphones and answer some simple questions.</p>
+         style="width:100%;height:300px;object-fit:cover;object-position:center;border-radius:12px;">
+    <h3>2. Listening</h3>
+    <p>Listen to short story clips and answer some simple questions.</p>
   </div>
 
   <div style="text-align:center;">
     <img src="{{ '/ECG.png' | relative_url }}"
-         alt="ECG cartoon"
-         style="width:100%;height:250px;object-fit:contain;border-radius:12px;">
-    <h3>3. Listening</h3>
+         alt="ECG sensor placement"
+         style="width:100%;height:300px;object-fit:cover;object-position:center;border-radius:12px;">
+    <h3>3. Heart Recording</h3>
     <p>We will also record your heart with ECG sensors.</p>
   </div>
 
