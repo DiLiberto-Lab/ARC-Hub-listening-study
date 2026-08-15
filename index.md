@@ -193,11 +193,11 @@ black 14%
   </div>
 
   <div style="text-align:center;">
-    <img src="{{ '/listening.png' | relative_url }}"
-         alt="Child listening through headphones"
+    <img src="{{ '/ECG.png' | relative_url }}"
+         alt="ECG cartoon"
          style="width:100%;border-radius:12px;">
     <h3>3. Listening</h3>
-    <p>Listen to short stories through headphones.</p>
+    <p>we will also record yoru heart with ECG sensors.</p>
   </div>
 
   <div style="text-align:center;">
