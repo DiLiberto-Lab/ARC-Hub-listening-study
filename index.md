@@ -177,11 +177,11 @@ black 14%
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:20px;margin:30px 0 50px;">
 
   <div style="text-align:center;">
-    <img src="{{ '/welcome.png' | relative_url }}"
-         alt="Child meeting the research team"
+    <img src="{{ '/Lloyd.png' | relative_url }}"
+         alt="ARC-HUB research team at the Lloyd Institute"
          style="width:100%;border-radius:12px;">
     <h3>1. Welcome</h3>
-    <p>Meet the research team and have a look around.</p>
+    <p>Meet the research team at the Lloyd Institute, Trinity College.</p>
   </div>
 
   <div style="text-align:center;">
