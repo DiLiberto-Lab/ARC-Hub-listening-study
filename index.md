@@ -195,9 +195,9 @@ black 14%
   <div style="text-align:center;">
     <img src="{{ '/ECG.png' | relative_url }}"
          alt="ECG cartoon"
-         style="width:100%;border-radius:12px;">
+         style="width:100%;height:250px;object-fit:cover;border-radius:12px;">
     <h3>3. Listening</h3>
-    <p>we will also record yoru heart with ECG sensors.</p>
+    <p>We will also record yoru heart with ECG sensors.</p>
   </div>
 
   <div style="text-align:center;">
