@@ -16,15 +16,15 @@ margin-bottom:50px;">
 <!-- ==================== LEFT ==================== -->
 
 <div style="
-padding:55px 50px;
+padding:30px 40px;
 display:flex;
 flex-direction:column;
 justify-content:center;
 z-index:2;">
 
 <h1 style="
-margin:0 0 34px;
-font-size:2.6rem;
+margin:0 0 22px;
+font-size:2.1rem;
 font-weight:700;
 line-height:1.15;
 color:#12346b;">
@@ -40,10 +40,10 @@ gap:12px;
 flex-wrap:wrap;
 align-self:flex-start;">
 
-<a href="(https://docs.google.com/forms/d/e/1FAIpQLSdP3h_uarIDNoNkd0FHKkyJCRcEI0Oj3-o8kw9r71HRKKfnRg/viewform?usp=sharing&ouid=106989043313353456488)"
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdP3h_uarIDNoNkd0FHKkyJCRcEI0Oj3-o8kw9r71HRKKfnRg/viewform?usp=sharing&ouid=106989043313353456488"
 target="_blank"
 style="
-display:inline-block; 
+display:inline-block;
 background:#079c9f;
 color:white;
 padding:14px 28px;
@@ -65,7 +65,7 @@ border-radius:10px;
 text-decoration:none;
 font-weight:700;
 font-size:1rem;">
-Register<br>7-18 years
+Register<br>7–18 years
 </a>
 
 </div>
@@ -80,14 +80,12 @@ overflow:hidden;">
 
 <img
 src="Hero.png"
-alt="Child wearing an EEG cap"
+alt="Neurodivergent child and adult participant"
 style="
 width:100%;
 height:100%;
 object-fit:cover;
 display:block;
-
-/* Gentle fade only on the first part of the image */
 
 -webkit-mask-image:linear-gradient(
 to right,
