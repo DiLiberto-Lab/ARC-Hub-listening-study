@@ -200,22 +200,6 @@ black 14%
     <p>We will also record yoru heart with ECG sensors.</p>
   </div>
 
-  <div style="text-align:center;">
-    <img src="{{ '/questions.png' | relative_url }}"
-         alt="Child answering questions"
-         style="width:100%;border-radius:12px;">
-    <h3>4. Questions</h3>
-    <p>Answer a few simple questions about the stories.</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="{{ '/finish.png' | relative_url }}"
-         alt="Child finishing the experiment"
-         style="width:100%;border-radius:12px;">
-    <h3>5. Finished!</h3>
-    <p>Remove the EEG cap and you are all done.</p>
-  </div>
-
 </div>
 
 <!-- ==================== WHO CAN TAKE PART? ==================== -->
