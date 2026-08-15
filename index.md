@@ -51,8 +51,7 @@ border-radius:10px;
 text-decoration:none;
 font-weight:700;
 font-size:1rem;">
-Book Your Slot:
-Adults 18+
+Register<br>Adults 18+
 </a>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0ELz470lfPgW2tTmqMi3jN_kwTgZ168o9qkZhby9es32TbA/viewform?usp=sharing&ouid=106989043313353456488"
@@ -66,8 +65,7 @@ border-radius:10px;
 text-decoration:none;
 font-weight:700;
 font-size:1rem;">
-Book Your Slot: 
-7–18 years
+Register<br>7-18 years
 </a>
 
 </div>
