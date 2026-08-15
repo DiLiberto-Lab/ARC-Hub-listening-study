@@ -185,8 +185,8 @@ black 14%
   </div>
 
   <div style="text-align:center;">
-    <img src="{{ '/eeg-cap.png' | relative_url }}"
-         alt="Researcher fitting an EEG cap"
+    <img src="{{ '/Experiment.png' | relative_url }}"
+         alt="Experiment set up"
          style="width:100%;border-radius:12px;">
     <h3>2. EEG Cap</h3>
     <p>Listen to short story clips with headphones and answer some simple questions.</p>
