@@ -381,7 +381,7 @@ display:inline-block;">
 </a>
 
 <p style="margin-top:15px;">
-<small>Read the full study information before deciding whether to take part.</small>
+<small>Step by step details on how to get here.</small>
 </p>
 
 </div>
