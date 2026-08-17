@@ -229,7 +229,7 @@ style="max-width:85%;border-radius:12px;">
 
 <details style="margin-bottom:12px;">
   <summary><strong>Is the study paid?</strong></summary>
-  <p>Each participant will recieve an All4One voucher (Adults €20 per hour, Children €30 per hour).</p>
+  <p>Each participant will recieve an All4One voucher.</p>
 </details>
 
 <details style="margin-bottom:12px;">
@@ -240,6 +240,11 @@ style="max-width:85%;border-radius:12px;">
 <details style="margin-bottom:12px;">
   <summary><strong>How long does the study take?</strong></summary>
   <p>About 1 hour in total: 30 minutes for the listening task, plus time for preparation and some final questions.</p>
+</details>
+
+<details style="margin-bottom:12px;">
+  <summary><strong>Who is running the study?</strong></summary>
+  <p>This study is part of ARC-Hub, a research project focused on developing more accessible technologies, and is being carried out by the Di Liberto Lab at Trinity College Dublin.</p>
 </details>
 
 <details style="margin-bottom:12px;">
