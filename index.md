@@ -24,7 +24,7 @@ z-index:2;">
 
 <!-- ARC-HUB LOGO -->
 
-<img src="{{ '/arc hub logo.png' | relative_url }}"
+<img src="{{ '/arc hub logo.jpg' | relative_url }}"
      alt="ARC-HUB"
      style="
      width:120px;
@@ -265,7 +265,7 @@ margin-bottom:12px;">
 
   <h2 style="margin:0;">Meet the Research Team</h2>
 
-  <img src="{{ '/DiLiberto.png' | relative_url }}"
+  <img src="{{ '/diliberto logo.png' | relative_url }}"
        alt="Di Liberto Lab"
        style="width:90px;height:auto;">
 
