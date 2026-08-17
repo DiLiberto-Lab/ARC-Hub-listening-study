@@ -329,7 +329,7 @@ align-items:center;">
 
 <p>We would be delighted to answer any questions you may have about taking part.</p>
 
-<p><strong>Email:</strong><br>CHALEHCA@tcd.ie</p>
+<p><strong>Email:</strong><br>MORANSJ@tcd.ie</p>
 
 <a href="mailto:MORANSJ@tcd.ie"
 style="background:#0077b6;
