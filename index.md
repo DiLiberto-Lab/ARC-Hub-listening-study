@@ -381,7 +381,7 @@ display:inline-block;">
 </a>
 
 <p style="margin-top:15px;">
-<small>Step by step details on how to get here and what the experiment room looks like.</small>
+<small>Step-by-step directions and a look at the experiment room.</small>
 </p>
 
 </div>
