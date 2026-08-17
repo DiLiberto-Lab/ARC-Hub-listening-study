@@ -257,13 +257,24 @@ style="max-width:85%;border-radius:12px;">
 
 <hr style="margin:30px 0;">
 
-<h2>Meet the Research Team</h2>
+<div style="
+display:flex;
+align-items:center;
+gap:15px;
+margin-bottom:12px;">
+
+  <h2 style="margin:0;">Meet the Research Team</h2>
+
+  <img src="{{ '/DiLiberto.png' | relative_url }}"
+       alt="Di Liberto Lab"
+       style="width:90px;height:auto;">
+
+</div>
 
 <div style="
 display:grid;
 grid-template-columns:1fr 1fr;
-gap:15px;
-margin-top:12px;">
+gap:15px;">
 
   <div style="
   text-align:center;
