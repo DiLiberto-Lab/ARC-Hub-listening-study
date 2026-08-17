@@ -24,7 +24,7 @@ z-index:2;">
 
 <!-- ARC-HUB LOGO -->
 
-<img src="{{ '/ARC-HUB.png' | relative_url }}"
+<img src="{{ '/arc hub logo.png' | relative_url }}"
      alt="ARC-HUB"
      style="
      width:120px;
