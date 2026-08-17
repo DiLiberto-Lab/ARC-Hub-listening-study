@@ -79,7 +79,7 @@ height:100%;
 overflow:hidden;">
 
 <img
-src="Hero.png"
+src="Hero_2.png"
 alt="Neurodivergent child and adult participant"
 style="
 width:100%;
