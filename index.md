@@ -305,7 +305,7 @@ align-items:center;">
 
 <p><strong>Email:</strong><br>CHALEHCA@tcd.ie</p>
 
-<a href="mailto:CHALEHCA@tcd.ie"
+<a href="mailto:MORANSJ@tcd.ie"
 style="background:#0077b6;
 color:white;
 padding:12px 22px;
