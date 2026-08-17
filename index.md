@@ -287,7 +287,7 @@ gap:15px;">
   padding:12px;
   border-radius:14px;">
 
-    <img src="{{ '/researcher1.jpg' | relative_url }}"
+    <img src="{{ '/Giovanni.jpg' | relative_url }}"
          alt="Dr Giovanni Di Liberto"
          style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
 
