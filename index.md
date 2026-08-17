@@ -245,36 +245,47 @@ style="max-width:85%;border-radius:12px;">
 
 <!-- ==================== MEET THE RESEARCH TEAM ==================== -->
 
-<hr style="margin:60px 0;">
+<hr style="margin:35px 0;">
 
 <h2>Meet the Research Team</h2>
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:25px;margin-top:25px;">
+<div style="
+display:grid;
+grid-template-columns:1fr 1.4fr;
+gap:18px;
+margin-top:18px;">
 
-  <div style="text-align:center;background:#f8f9fa;padding:25px;border-radius:14px;">
+  <div style="
+  text-align:center;
+  background:#f8f9fa;
+  padding:18px;
+  border-radius:14px;">
 
     <img src="{{ '/researcher1.jpg' | relative_url }}"
          alt="Dr Giovanni Di Liberto"
-         style="width:150px;height:150px;object-fit:cover;border-radius:50%;">
+         style="width:130px;height:130px;object-fit:cover;border-radius:50%;">
 
     <h3>Dr Giovanni Di Liberto</h3>
     <p>Principal Investigator</p>
 
   </div>
 
-  <div style="text-align:center;background:#f8f9fa;padding:25px;border-radius:14px;">
+  <div style="
+  text-align:center;
+  background:#f8f9fa;
+  padding:18px;
+  border-radius:14px;">
 
     <img src="{{ '/team.png' | relative_url }}"
          alt="ARC-HUB research team"
-         style="width:150px;height:150px;object-fit:cover;border-radius:50%;">
+         style="width:100%;height:180px;object-fit:cover;border-radius:10px;">
 
     <h3>Research Team</h3>
-    <p>Friendly researchers who will guide your family throughout the visit.</p>
+    <p>Sharon (Research Assistant) and Amir (Postdoctoral Researcher) will guide you throughout your visit.</p>
 
   </div>
 
 </div>
-
 
 <!-- ==================== CONTACT AND STUDY INFORMATION ==================== -->
 
