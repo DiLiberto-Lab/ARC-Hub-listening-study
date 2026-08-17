@@ -208,7 +208,7 @@ style="max-width:85%;border-radius:12px;">
 <h2>Frequently Asked Questions</h2>
 
 <details style="margin-bottom:12px;">
-  <summary><strong>Is the ECG uncomfortalbe?</strong></summary>
+  <summary><strong>Is the ECG uncomfortable?</strong></summary>
   <p>No. The ECG is completely painless and non-invasive. The sensors are placed via stickers on your skin.</p>
 </details>
 
@@ -245,48 +245,47 @@ style="max-width:85%;border-radius:12px;">
 
 <!-- ==================== MEET THE RESEARCH TEAM ==================== -->
 
-<hr style="margin:35px 0;">
+<hr style="margin:30px 0;">
 
 <h2>Meet the Research Team</h2>
 
 <div style="
 display:grid;
-grid-template-columns:1fr 1.4fr;
-gap:18px;
-margin-top:18px;">
+grid-template-columns:1fr 1fr;
+gap:15px;
+margin-top:12px;">
 
   <div style="
   text-align:center;
   background:#f8f9fa;
-  padding:18px;
+  padding:12px;
   border-radius:14px;">
 
     <img src="{{ '/researcher1.jpg' | relative_url }}"
          alt="Dr Giovanni Di Liberto"
-         style="width:130px;height:130px;object-fit:cover;border-radius:50%;">
+         style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
 
-    <h3>Dr Giovanni Di Liberto</h3>
-    <p>Principal Investigator</p>
+    <h3 style="margin:8px 0 3px;">Dr Giovanni Di Liberto</h3>
+    <p style="margin:0;">Principal Investigator</p>
 
   </div>
 
   <div style="
   text-align:center;
   background:#f8f9fa;
-  padding:18px;
+  padding:12px;
   border-radius:14px;">
 
     <img src="{{ '/team.png' | relative_url }}"
          alt="ARC-HUB research team"
-         style="width:100%;height:180px;object-fit:cover;border-radius:10px;">
+         style="width:150px;height:150px;object-fit:cover;border-radius:50%;">
 
-    <h3>Research Team</h3>
-    <p>Sharon (Research Assistant) and Amir (Postdoctoral Researcher) will guide you throughout your visit.</p>
+    <h3 style="margin:8px 0 3px;">Research Team</h3>
+    <p style="margin:0;">Sharon (Research Assistant) and Amir (Postdoctoral Researcher) will guide you throughout your visit.</p>
 
   </div>
 
 </div>
-
 <!-- ==================== CONTACT AND STUDY INFORMATION ==================== -->
 
 <hr style="margin:60px 0;">
