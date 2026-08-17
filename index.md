@@ -22,6 +22,16 @@ flex-direction:column;
 justify-content:center;
 z-index:2;">
 
+<!-- ARC-HUB LOGO -->
+
+<img src="{{ '/ARC-HUB.png' | relative_url }}"
+     alt="ARC-HUB"
+     style="
+     width:120px;
+     height:auto;
+     margin-bottom:15px;
+     align-self:flex-start;">
+
 <h1 style="
 margin:0 0 22px;
 font-size:2.1rem;
