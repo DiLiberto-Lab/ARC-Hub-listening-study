@@ -229,7 +229,7 @@ style="max-width:85%;border-radius:12px;">
 
 <details style="margin-bottom:12px;">
   <summary><strong>How long does the study take?</strong></summary>
-  <p>About 1 hour: 30 mins for the listening task, with additional time for preparation and closing questions.</p>
+  <p>About 1 hour in total: 30 minutes for the listening task, plus time for preparation and some final questions.</p>
 </details>
 
 <details style="margin-bottom:12px;">
