@@ -233,10 +233,10 @@ style="max-width:85%;border-radius:12px;">
 </details>
 
 <details style="margin-bottom:12px;">
-  <summary><strong>Can my child stop at any time?</strong></summary>
+  <summary><strong>Can I stop participating at any time?</strong></summary>
   <p>Yes. Participation is voluntary, and you can stop at any stage.</p>
 </details>
-
+ 
 <details style="margin-bottom:12px;">
   <summary><strong>How long does the study take?</strong></summary>
   <p>About 1 hour in total: 30 minutes for the listening task, plus time for preparation and some final questions.</p>
