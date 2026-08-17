@@ -16,7 +16,7 @@ margin-bottom:50px;">
 <!-- ==================== LEFT ==================== -->
 
 <div style="
-padding:30px 40px;
+padding:18px 35px;
 display:flex;
 flex-direction:column;
 justify-content:center;
@@ -27,13 +27,13 @@ z-index:2;">
 <img src="{{ '/arc hub logo.jpg' | relative_url }}"
      alt="ARC-HUB"
      style="
-     width:120px;
+     width:90px;
      height:auto;
-     margin-bottom:15px;
+     margin-bottom:8px;
      align-self:flex-start;">
 
 <h1 style="
-margin:0 0 22px;
+margin:0 0 18px;
 font-size:2.1rem;
 font-weight:700;
 line-height:1.15;
@@ -50,7 +50,7 @@ gap:12px;
 flex-wrap:wrap;
 align-self:flex-start;">
 
-<a href="[https://docs.google.com/forms/d/e/1FAIpQLSdP3h_uarIDNoNkd0FHKkyJCRcEI0Oj3-o8kw9r71HRKKfnRg/viewform?usp=sharing&ouid=106989043313353456488](https://docs.google.com/forms/d/e/1FAIpQLSdP3h_uarIDNoNkd0FHKkyJCRcEI0Oj3-o8kw9r71HRKKfnRg/viewform?usp=sharing&ouid=106989043313353456488 )"
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdP3h_uarIDNoNkd0FHKkyJCRcEI0Oj3-o8kw9r71HRKKfnRg/viewform?usp=sharing&ouid=106989043313353456488"
 target="_blank"
 style="
 display:inline-block;
@@ -272,7 +272,7 @@ margin-bottom:12px;">
 
   <img src="{{ '/diliberto logo.png' | relative_url }}"
        alt="Di Liberto Lab"
-       style="width:90px;height:auto;">
+       style="width:150px;height:auto;">
 
 </div>
 
@@ -289,7 +289,7 @@ gap:15px;">
 
     <img src="{{ '/Giovanni.jpg' | relative_url }}"
          alt="Dr Giovanni Di Liberto"
-         style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+         style="width:150px;height:150px;object-fit:cover;border-radius:50%;">
 
     <h3 style="margin:8px 0 3px;">Dr Giovanni Di Liberto</h3>
     <p style="margin:0;">Principal Investigator</p>
