@@ -163,11 +163,11 @@ black 14%
          alt="Experiment set up"
          style="width:100%;height:300px;object-fit:cover;object-position:center;border-radius:12px;">
     <h3>2. Listening</h3>
-    <p>Listen to short story clips and answer some simple questions about the stories.</p>
+    <p>Listen to short story clips with background voices and answer some simple questions about the stories.</p>
   </div>
 
   <div style="text-align:center;">
-    <img src="{{ '/ECG.png' | relative_url }}"
+    <img src="{{ '/ECG.png' | relative_url }}" 
          alt="ECG sensor placement"
          style="width:100%;height:300px;object-fit:cover;object-position:center;border-radius:12px;">
     <h3>3. Heart Recording</h3>
