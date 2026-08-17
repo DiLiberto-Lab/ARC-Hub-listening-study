@@ -116,11 +116,11 @@ black 14%
 
     <h2>Why are we doing this?</h2>
 
-    <p>Many neurodivergent people find it difficult to focus on speech in busy listening environments such as classrooms.</p>
+    <p>Many neurodivergent people find it difficult to focus on speech in busy listening environments such as classrooms and other group settings.</p>
 
-    <p>Our research uses child-friendly ECG to understand how the brain processes speech in these situations.</p>
+    <p>Our research aims to understand how neurodivergent people process speech in these situations.</p>
 
-    <p>Our findings can help guide future listening technologies and environments that better support neurodivergent children at home and at school!</p>
+    <p>Our findings can help guide future technologies and listening environments that better support neurodivergent people in everyday life.</p>
 
   </div>
 
