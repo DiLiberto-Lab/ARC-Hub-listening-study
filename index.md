@@ -340,7 +340,7 @@ border-radius:14px;">
 
 </div>
 
-<!-- PARTICIPANT INFORMATION -->
+<!-- HOW TO GET THERE DOCUMENT -->
 
 <div style="text-align:center;">
 
@@ -352,7 +352,7 @@ border-radius:10px;
 text-decoration:none;
 font-weight:bold;
 display:inline-block;">
-📄 Download Participant Information Sheet
+📄 How to Get Here
 </a>
 
 <p style="margin-top:15px;">
