@@ -384,10 +384,27 @@ display:inline-block;">
 <small>Step-by-step directions and a look at the experiment room.</small>
 </p>
 
-</div>
+<!-- PARTICIPANT INFORMATION SHEET -->
+
+<a href="{{ '/Participant-Information-Sheet.pdf' | relative_url }}"
+style="background:#28a745;
+color:white;
+padding:16px 24px;
+border-radius:10px;
+text-decoration:none;
+font-weight:bold;
+display:inline-block;
+margin-top:10px;">
+📄 Participant Information Sheet
+</a>
+
+<p style="margin-top:15px;">
+<small>Full information about the study and what taking part involves.</small>
+</p>
 
 </div>
 
+</div>
 
 <!-- ==================== ETHICS FOOTER ==================== -->
 
