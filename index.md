@@ -372,11 +372,13 @@ border-radius:14px;">
 <a href="{{ '/HOW TO GET HERE.docx' | relative_url }}"
 style="background:#28a745;
 color:white;
-padding:16px 24px;
+width:220px;
+padding:16px 10px;
 border-radius:10px;
 text-decoration:none;
 font-weight:bold;
-display:inline-block;">
+display:inline-block;
+box-sizing:border-box;">
 📄 How to Get Here
 </a>
 
@@ -384,22 +386,24 @@ display:inline-block;">
 <small>Step-by-step directions and a look at the experiment room.</small>
 </p>
 
-<!-- PARTICIPANT INFORMATION SHEET -->
+<!-- PARTICIPANT INFORMATION -->
 
 <a href="{{ '/Participant-Information-Sheet.pdf' | relative_url }}"
 style="background:#28a745;
 color:white;
-padding:16px 24px;
+width:220px;
+padding:16px 10px;
 border-radius:10px;
 text-decoration:none;
 font-weight:bold;
 display:inline-block;
+box-sizing:border-box;
 margin-top:10px;">
-📄 Participant Information Sheet
+📄 Participant Information
 </a>
 
 <p style="margin-top:15px;">
-<small>Full information about the study and what taking part involves.</small>
+<small>Details about the study and what taking part involves.</small>
 </p>
 
 </div>
