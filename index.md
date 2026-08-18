@@ -389,7 +389,7 @@ box-sizing:border-box;">
 
 <!-- PARTICIPANT INFORMATION -->
 
-<a href="{{ '/Participant-Information-Sheet.pdf' | relative_url }}"
+<a href="{{ '/Info_sheet.pdf' | relative_url }}"
 style="
 background:#28a745;
 color:white;
