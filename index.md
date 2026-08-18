@@ -369,7 +369,7 @@ border-radius:14px;">
 
 <div style="text-align:center;">
 
-<a href="{{ '/Participant-Information-Sheet.pdf' | relative_url }}"
+<a href="{{ '/HOW TO GET HERE.docx' | relative_url }}"
 style="background:#28a745;
 color:white;
 padding:16px 24px;
