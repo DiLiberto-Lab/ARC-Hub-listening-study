@@ -370,10 +370,11 @@ border-radius:14px;">
 <div style="text-align:center;">
 
 <a href="{{ '/HOW TO GET HERE.docx' | relative_url }}"
-style="background:#28a745;
+style="
+background:#28a745;
 color:white;
 width:220px;
-padding:16px 10px;
+padding:12px 10px;
 border-radius:10px;
 text-decoration:none;
 font-weight:bold;
@@ -382,34 +383,34 @@ box-sizing:border-box;">
 📄 How to Get Here
 </a>
 
-<p style="margin-top:15px;">
+<p style="margin:8px 0 15px;">
 <small>Step-by-step directions and a look at the experiment room.</small>
 </p>
 
 <!-- PARTICIPANT INFORMATION -->
 
 <a href="{{ '/Participant-Information-Sheet.pdf' | relative_url }}"
-style="background:#28a745;
+style="
+background:#28a745;
 color:white;
 width:220px;
-padding:16px 10px;
+padding:8px 10px;
 border-radius:10px;
 text-decoration:none;
 font-weight:bold;
 display:inline-block;
 box-sizing:border-box;
-margin-top:10px;">
+margin-top:5px;">
 📄 Participant Information
 </a>
 
-<p style="margin-top:15px;">
+<p style="margin:8px 0 0;">
 <small>Details about the study and what taking part involves.</small>
 </p>
 
 </div>
 
 </div>
-
 <!-- ==================== ETHICS FOOTER ==================== -->
 
 <hr style="margin-top:60px;">
