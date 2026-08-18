@@ -219,7 +219,7 @@ style="max-width:85%;border-radius:12px;">
 
 <details style="margin-bottom:12px;">
   <summary><strong>Is the ECG uncomfortable?</strong></summary>
-  <p>No. The ECG is completely painless and non-invasive. The sensors are placed via stickers on your skin.</p>
+  <p>No. The ECG is completely painless and non-invasive. The sensors are attached to your skin using small adhesive stickers.</p>
 </details>
 
 <details style="margin-bottom:12px;">
