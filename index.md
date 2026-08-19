@@ -418,3 +418,33 @@ margin-top:5px;">
 <p style="font-size:0.9em;color:#666;text-align:center;max-width:800px;margin:auto;">
   This study has received ethical approval from the Trinity College Dublin Research Ethics Committee. Participation is voluntary, and you may withdraw from the study at any time without giving a reason.
 </p>
+
+<!-- ================== ADAPT TO PHONE SCREENS ================ -->
+
+<style>
+@media (max-width: 700px) {
+
+  /* Make grid sections stack vertically */
+  div[style*="display:grid"] {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Make images responsive */
+  img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  /* Reduce large spacing */
+  h1 {
+    font-size: 1.8rem !important;
+  }
+
+  /* Keep buttons readable */
+  a {
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+}
+</style>
