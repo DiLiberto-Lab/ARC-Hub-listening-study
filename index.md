@@ -281,7 +281,7 @@ align-items:center;">
 <h2 style="margin-top:0;">Who can take part?</h2>
 
 <p style="margin-bottom:10px;">
-<strong>Neurodivergent adults 18+ and children aged 7–18 years.</strong>
+<strong>Neurodivergent and neurotypical adults (18+) and children and young people aged 7–18 years.</strong>
 </p>
 
 <p style="margin:0;line-height:1.5;">
