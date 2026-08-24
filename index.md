@@ -523,6 +523,8 @@ Study visits take place at Trinity College Dublin.
 
 <div style="text-align:center;">
 
+<!-- HOW TO GET HERE -->
+
 <a href="{{ '/HOW TO GET HERE.docx' | relative_url }}"
 style="
 background:#28a745;
@@ -544,19 +546,45 @@ Step-by-step directions and a look at the experiment room.
 </p>
 
 
-<a href="{{ '/Info_sheet.pdf' | relative_url }}"
-style="
-background:#28a745;
-color:white;
-width:220px;
-padding:8px 10px;
-border-radius:10px;
-text-decoration:none;
-font-weight:bold;
-display:inline-block;
-box-sizing:border-box;
-margin-top:5px;">
-📄 Participant Information
+<!-- PARTICIPANT INFORMATION -->
+
+<p style="
+margin:8px 0 8px;
+font-weight:bold;">
+Participant Information
+</p>
+
+<a href="{{ '/Info_sheet_children.pdf' | relative_url }}"
+   target="_blank"
+   style="
+   background:#28a745;
+   color:white;
+   width:220px;
+   padding:10px 10px;
+   border-radius:10px;
+   text-decoration:none;
+   font-weight:bold;
+   display:inline-block;
+   box-sizing:border-box;
+   margin-bottom:8px;">
+📄 Children 7–18
+</a>
+
+<br>
+
+<a href="{{ '/Info_sheet_adults.pdf' | relative_url }}"
+   target="_blank"
+   style="
+   background:#28a745;
+   color:white;
+   width:220px;
+   padding:10px 10px;
+   border-radius:10px;
+   text-decoration:none;
+   font-weight:bold;
+   display:inline-block;
+   box-sizing:border-box;">
+📄 Adults 18+
 </a>
 
 <p style="margin:8px 0 0;">
