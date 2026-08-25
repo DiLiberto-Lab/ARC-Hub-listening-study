@@ -29,7 +29,8 @@ z-index:2;">
 display:flex;
 align-items:center;
 gap:18px;
-margin-bottom:8px;">
+margin-bottom:8px;
+transform:translateY(-8px);">
 
 <a href="https://diliberg.net/"
    target="_blank"
@@ -77,13 +78,17 @@ Neurodivergent People
 </h1>
 
 
+<!-- BUTTON AREA - MOVED SLIGHTLY DOWN -->
+
+<div style="transform:translateY(8px);">
+
 <!-- REGISTRATION BUTTONS -->
 
 <div style="
 display:grid;
 grid-template-columns:repeat(2,170px);
 gap:8px;
-margin-bottom:9px;">
+margin-bottom:3px;">
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdP3h_uarIDNoNkd0FHKkyJCRcEI0Oj3-o8kw9r71HRKKfnRg/viewform?usp=sharing&ouid=106989043313353456488"
    target="_blank"
@@ -195,6 +200,8 @@ gap:8px;">
 📄&nbsp; Information<br>7–18 years
 
 </a>
+
+</div>
 
 </div>
 
