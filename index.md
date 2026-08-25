@@ -29,7 +29,7 @@ z-index:2;">
 display:flex;
 align-items:center;
 gap:18px;
-margin-bottom:8px;">
+margin-bottom:5px;">
 
 <a href="https://diliberg.net/"
    target="_blank"
@@ -65,7 +65,7 @@ margin-bottom:8px;">
 <!-- MAIN TITLE -->
 
 <h1 style="
-margin:0 0 11px;
+margin:0 0 20px;
 font-size:2.05rem;
 font-weight:700;
 line-height:1.08;
@@ -83,7 +83,7 @@ Neurodivergent People
 display:grid;
 grid-template-columns:repeat(2,170px);
 gap:8px;
-margin-bottom:9px;">
+margin-bottom:6px;">
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdP3h_uarIDNoNkd0FHKkyJCRcEI0Oj3-o8kw9r71HRKKfnRg/viewform?usp=sharing&ouid=106989043313353456488"
    target="_blank"
@@ -232,7 +232,6 @@ margin-left:-30px;">
 </div>
 
 </div>
-
 
 <!-- ==================== WHAT HAPPENS ON THE DAY? ==================== -->
 
