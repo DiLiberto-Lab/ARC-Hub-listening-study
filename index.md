@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<!-- ==================== COMPACT HERO ==================== -->
+<!-- ==================== HERO TOP SECTION ==================== -->
 
 <div style="
 display:grid;
@@ -14,7 +14,7 @@ overflow:hidden;
 margin-bottom:35px;
 height:400px;">
 
-<!-- LEFT -->
+<!-- ==================== LEFT ==================== -->
 
 <div style="
 padding:12px 25px;
@@ -33,28 +33,36 @@ margin-bottom:8px;">
 
 <a href="https://diliberg.net/"
    target="_blank"
-   rel="noopener noreferrer">
+   rel="noopener noreferrer"
+   title="Visit the Di Liberto Lab website">
 
 <img src="{{ '/diliberto logo.png' | relative_url }}"
      alt="Di Liberto Lab"
-     style="width:150px;height:auto;display:block;">
+     style="
+     width:150px;
+     height:auto;
+     display:block;">
 
 </a>
 
 <a href="https://ict.archub.ie/projects/refocus/"
    target="_blank"
-   rel="noopener noreferrer">
+   rel="noopener noreferrer"
+   title="Visit the ReFocus website">
 
 <img src="{{ '/arc hub logo.jpg' | relative_url }}"
      alt="ARC-HUB"
-     style="width:90px;height:auto;display:block;">
+     style="
+     width:90px;
+     height:auto;
+     display:block;">
 
 </a>
 
 </div>
 
 
-<!-- TITLE -->
+<!-- MAIN TITLE -->
 
 <h1 style="
 margin:0 0 11px;
@@ -69,39 +77,56 @@ Neurodivergent People
 </h1>
 
 
-<!-- REGISTER -->
+<!-- REGISTRATION BUTTONS -->
 
 <div style="
-display:flex;
+display:grid;
+grid-template-columns:repeat(2,170px);
 gap:8px;
 margin-bottom:9px;">
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdP3h_uarIDNoNkd0FHKkyJCRcEI0Oj3-o8kw9r71HRKKfnRg/viewform?usp=sharing&ouid=106989043313353456488"
-target="_blank"
-style="
-background:#079c9f;
-color:white;
-padding:8px 15px;
-border-radius:7px;
-text-decoration:none;
-font-weight:700;
-font-size:1rem;
-text-align:center;">
-Register Adults 18+
+   target="_blank"
+   style="
+   background:#079c9f;
+   color:white;
+   width:170px;
+   height:46px;
+   border-radius:7px;
+   text-decoration:none;
+   font-weight:700;
+   font-size:1rem;
+   line-height:1.15;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   text-align:center;
+   box-sizing:border-box;">
+
+Register<br>Adults 18+
+
 </a>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0ELz470lfPgW2tTmqMi3jN_kwTgZ168o9qkZhby9es32TbA/viewform?usp=sharing&ouid=106989043313353456488"
-target="_blank"
-style="
-background:#079c9f;
-color:white;
-padding:8px 15px;
-border-radius:7px;
-text-decoration:none;
-font-weight:700;
-font-size:1rem;
-text-align:center;">
-Register 7–18
+   target="_blank"
+   style="
+   background:#079c9f;
+   color:white;
+   width:170px;
+   height:46px;
+   border-radius:7px;
+   text-decoration:none;
+   font-weight:700;
+   font-size:1rem;
+   line-height:1.15;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   text-align:center;
+   box-sizing:border-box;">
+
+Register<br>Children 7–18 years
+
 </a>
 
 </div>
@@ -114,37 +139,61 @@ margin:0 0 5px;
 font-weight:700;
 font-size:1rem;
 color:#12346b;">
+
 Study Information
+
 </p>
 
+
+<!-- INFORMATION BUTTONS -->
+
 <div style="
-display:flex;
+display:grid;
+grid-template-columns:repeat(2,170px);
 gap:8px;">
 
 <a href="{{ '/Info_sheet_adults.pdf' | relative_url }}"
-target="_blank"
-style="
-background:#28a745;
-color:white;
-padding:7px 14px;
-border-radius:7px;
-text-decoration:none;
-font-weight:700;
-font-size:.98rem;">
-📄 Adults 18+
+   target="_blank"
+   style="
+   background:#28a745;
+   color:white;
+   width:170px;
+   height:46px;
+   border-radius:7px;
+   text-decoration:none;
+   font-weight:700;
+   font-size:1rem;
+   line-height:1.15;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   text-align:center;
+   box-sizing:border-box;">
+
+📄&nbsp; Information<br>Adults 18+
+
 </a>
 
 <a href="{{ '/Info_sheet_children.pdf' | relative_url }}"
-target="_blank"
-style="
-background:#28a745;
-color:white;
-padding:7px 14px;
-border-radius:7px;
-text-decoration:none;
-font-weight:700;
-font-size:.98rem;">
-📄 Children 7–18
+   target="_blank"
+   style="
+   background:#28a745;
+   color:white;
+   width:170px;
+   height:46px;
+   border-radius:7px;
+   text-decoration:none;
+   font-weight:700;
+   font-size:1rem;
+   line-height:1.15;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   text-align:center;
+   box-sizing:border-box;">
+
+📄&nbsp; Information<br>Children 7–18 years
+
 </a>
 
 </div>
@@ -152,7 +201,7 @@ font-size:.98rem;">
 </div>
 
 
-<!-- RIGHT IMAGE -->
+<!-- ==================== RIGHT / HERO IMAGE ==================== -->
 
 <div style="
 height:400px;
@@ -179,45 +228,6 @@ margin-left:-30px;">
      rgba(0,0,0,.5) 8%,
      black 18%);
      ">
-
-</div>
-
-</div>
-
-<!-- ==================== WHY THIS RESEARCH? ==================== -->
-
-<div style="
-display:grid;
-grid-template-columns:1.2fr 1fr;
-gap:40px;
-align-items:center;
-margin:50px 0;">
-
-<div>
-
-<h2>Why are we doing this?</h2>
-
-<p>
-Many neurodivergent people find it difficult to focus on speech in busy listening environments such as classrooms and other group settings.
-</p>
-
-<p>
-Our research aims to understand how neurodivergent people process speech in these situations.
-</p>
-
-<p>
-Our findings can help guide future technologies and listening environments that better support neurodivergent people in everyday life.
-</p>
-
-</div>
-
-<div>
-
-<img src="{{ '/Classroom.png' | relative_url }}"
-     alt="Child in a busy classroom"
-     style="
-     width:100%;
-     border-radius:16px;">
 
 </div>
 
