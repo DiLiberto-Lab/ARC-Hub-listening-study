@@ -90,7 +90,7 @@ display:inline-block;
 background:#079c9f;
 color:white;
 padding:11px 20px;
-border-radius:9px;
+border-radius:7px;
 text-decoration:none;
 font-weight:700;
 font-size:1rem;">
@@ -104,7 +104,7 @@ display:inline-block;
 background:#079c9f;
 color:white;
 padding:11px 20px;
-border-radius:9px;
+border-radius:7px;
 text-decoration:none;
 font-weight:700;
 font-size:1rem;">
