@@ -89,8 +89,8 @@ style="
 display:inline-block;
 background:#079c9f;
 color:white;
-padding:14px 28px;
-border-radius:10px;
+padding:11px 20px;
+border-radius:9px;
 text-decoration:none;
 font-weight:700;
 font-size:1rem;">
@@ -103,8 +103,8 @@ style="
 display:inline-block;
 background:#079c9f;
 color:white;
-padding:14px 28px;
-border-radius:10px;
+padding:11px 20px;
+border-radius:9px;
 text-decoration:none;
 font-weight:700;
 font-size:1rem;">
