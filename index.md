@@ -6,9 +6,9 @@ layout: page
 
 <div style="
 display:grid;
-grid-template-columns:1.15fr 1fr;
+grid-template-columns:1.08fr 1fr;
 align-items:stretch;
-background:linear-gradient(90deg,#ffffff 0%,#ffffff 50%,#eef9fb 100%);
+background:#ffffff;
 border-radius:18px;
 overflow:hidden;
 margin-bottom:50px;">
@@ -16,7 +16,7 @@ margin-bottom:50px;">
 <!-- ==================== LEFT ==================== -->
 
 <div style="
-padding:18px 35px;
+padding:24px 30px 26px 35px;
 display:flex;
 flex-direction:column;
 justify-content:center;
@@ -27,11 +27,12 @@ z-index:2;">
 <div style="
 display:flex;
 align-items:center;
-gap:18px;
-margin-bottom:12px;
+gap:22px;
+margin-bottom:20px;
 flex-wrap:wrap;">
 
   <!-- DI LIBERTO LAB -->
+
   <a href="https://diliberg.net/"
      target="_blank"
      rel="noopener noreferrer"
@@ -40,12 +41,14 @@ flex-wrap:wrap;">
     <img src="{{ '/diliberto logo.png' | relative_url }}"
          alt="Di Liberto Lab"
          style="
-         width:145px;
+         width:160px;
          height:auto;
          display:block;">
   </a>
 
-  <!-- ARC-HUB -->
+
+  <!-- ARC-HUB / REFOCUS -->
+
   <a href="https://ict.archub.ie/projects/refocus/"
      target="_blank"
      rel="noopener noreferrer"
@@ -54,13 +57,15 @@ flex-wrap:wrap;">
     <img src="{{ '/arc hub logo.jpg' | relative_url }}"
          alt="ARC-HUB"
          style="
-         width:90px;
+         width:105px;
          height:auto;
          display:block;">
   </a>
 
 </div>
 
+
+<!-- MAIN TITLE -->
 
 <h1 style="
 margin:0 0 18px;
@@ -78,107 +83,138 @@ Neurodivergent People
 <!-- REGISTRATION BUTTONS -->
 
 <div style="
-display:flex;
-gap:12px;
-flex-wrap:wrap;
-align-self:flex-start;">
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:10px;
+width:320px;
+max-width:100%;">
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdP3h_uarIDNoNkd0FHKkyJCRcEI0Oj3-o8kw9r71HRKKfnRg/viewform?usp=sharing&ouid=106989043313353456488"
-target="_blank"
-style="
-display:inline-block;
-background:#079c9f;
-color:white;
-padding:11px 20px;
-border-radius:7px;
-text-decoration:none;
-font-weight:700;
-font-size:1rem;">
+   target="_blank"
+   style="
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   text-align:center;
+   background:#079c9f;
+   color:white;
+   padding:11px 12px;
+   min-height:48px;
+   border-radius:8px;
+   text-decoration:none;
+   font-weight:700;
+   font-size:1rem;
+   box-sizing:border-box;">
+
 Register<br>Adults 18+
+
 </a>
 
+
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0ELz470lfPgW2tTmqMi3jN_kwTgZ168o9qkZhby9es32TbA/viewform?usp=sharing&ouid=106989043313353456488"
-target="_blank"
-style="
-display:inline-block;
-background:#079c9f;
-color:white;
-padding:11px 20px;
-border-radius:7px;
-text-decoration:none;
-font-weight:700;
-font-size:1rem;">
+   target="_blank"
+   style="
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   text-align:center;
+   background:#079c9f;
+   color:white;
+   padding:11px 12px;
+   min-height:48px;
+   border-radius:8px;
+   text-decoration:none;
+   font-weight:700;
+   font-size:1rem;
+   box-sizing:border-box;">
+
 Register<br>7–18 years
+
 </a>
 
 </div>
 
 
-<!-- PARTICIPANT INFORMATION -->
+<!-- STUDY INFORMATION -->
 
 <p style="
-margin:18px 0 8px;
-font-weight:bold;
-color:#12346b;">
-Participant Information
+margin:17px 0 7px;
+font-weight:700;
+color:#12346b;
+font-size:1rem;">
+
+Study Information
+
 </p>
 
+
 <div style="
-display:flex;
+display:grid;
+grid-template-columns:1fr 1fr;
 gap:10px;
-flex-wrap:wrap;
-align-self:flex-start;">
+width:320px;
+max-width:100%;">
 
 <a href="{{ '/Info_sheet_adults.pdf' | relative_url }}"
    target="_blank"
    style="
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   text-align:center;
    background:#28a745;
    color:white;
-   padding:10px 18px;
-   border-radius:10px;
+   padding:10px 12px;
+   min-height:44px;
+   border-radius:8px;
    text-decoration:none;
-   font-weight:bold;
-   display:inline-block;
+   font-weight:700;
    box-sizing:border-box;">
-📄 Adults 18+
+
+📄&nbsp; Adults 18+
+
 </a>
+
 
 <a href="{{ '/Info_sheet_children.pdf' | relative_url }}"
    target="_blank"
    style="
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   text-align:center;
    background:#28a745;
    color:white;
-   padding:10px 18px;
-   border-radius:10px;
+   padding:10px 12px;
+   min-height:44px;
+   border-radius:8px;
    text-decoration:none;
-   font-weight:bold;
-   display:inline-block;
+   font-weight:700;
    box-sizing:border-box;">
-📄 Children 7–18
+
+📄&nbsp; Children 7–18
+
 </a>
 
 </div>
 
-<p style="margin:7px 0 0;">
-<small>
-Read more about the study and what taking part involves.
-</small>
-</p>
-
 </div>
 
 
-<!-- ==================== RIGHT ==================== -->
+<!-- ==================== RIGHT / HERO IMAGE ==================== -->
 
 <div style="
 height:100%;
-overflow:hidden;">
+overflow:hidden;
+margin-left:-35px;
+position:relative;
+z-index:1;">
 
 <img
 src="Hero_2.png"
 alt="Neurodivergent child and adult participant"
 style="
-width:100%;
+width:calc(100% + 35px);
 height:100%;
 object-fit:cover;
 display:block;
@@ -186,17 +222,19 @@ display:block;
 -webkit-mask-image:linear-gradient(
 to right,
 transparent 0%,
-rgba(0,0,0,.45) 6%,
-rgba(0,0,0,.85) 10%,
-black 14%
+rgba(0,0,0,.25) 5%,
+rgba(0,0,0,.65) 10%,
+rgba(0,0,0,.9) 15%,
+black 20%
 );
 
 mask-image:linear-gradient(
 to right,
 transparent 0%,
-rgba(0,0,0,.45) 6%,
-rgba(0,0,0,.85) 10%,
-black 14%
+rgba(0,0,0,.25) 5%,
+rgba(0,0,0,.65) 10%,
+rgba(0,0,0,.9) 15%,
+black 20%
 );
 ">
 
