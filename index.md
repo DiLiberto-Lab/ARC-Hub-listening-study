@@ -293,7 +293,7 @@ Meet the research team at the Lloyd Institute, Trinity College.
 <h3>2. Preparations</h3>
 
 <p>
-We will set up the ECG sensors and headphones before the listening task.
+We will attach small, non-invasive ECG sensors to record heart activity and set up headphones before the listening task.
 </p>
 
 </div>
@@ -315,7 +315,7 @@ We will set up the ECG sensors and headphones before the listening task.
 <h3>3. Listening</h3>
 
 <p>
-Listen to short story clips with background voices and answer some simple questions about the stories.
+Listen to short story clips with background voices played through speakers, and answer some simple questions about the stories.
 </p>
 
 </div>
