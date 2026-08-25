@@ -46,17 +46,18 @@ flex-wrap:wrap;">
   </a>
 
   <!-- ARC-HUB -->
-    <a href="https://ict.archub.ie/projects/refocus/"
+  <a href="https://ict.archub.ie/projects/refocus/"
      target="_blank"
      rel="noopener noreferrer"
      title="Visit the ReFocus website">
-     
-  <img src="{{ '/arc hub logo.jpg' | relative_url }}"
-       alt="ARC-HUB"
-       style="
-       width:90px;
-       height:auto;
-       display:block;">
+
+    <img src="{{ '/arc hub logo.jpg' | relative_url }}"
+         alt="ARC-HUB"
+         style="
+         width:90px;
+         height:auto;
+         display:block;">
+  </a>
 
 </div>
 
@@ -73,6 +74,8 @@ Neurodivergent People
 
 </h1>
 
+
+<!-- REGISTRATION BUTTONS -->
 
 <div style="
 display:flex;
@@ -109,6 +112,58 @@ Register<br>7–18 years
 </a>
 
 </div>
+
+
+<!-- PARTICIPANT INFORMATION -->
+
+<p style="
+margin:18px 0 8px;
+font-weight:bold;
+color:#12346b;">
+Participant Information
+</p>
+
+<div style="
+display:flex;
+gap:10px;
+flex-wrap:wrap;
+align-self:flex-start;">
+
+<a href="{{ '/Info_sheet_adults.pdf' | relative_url }}"
+   target="_blank"
+   style="
+   background:#28a745;
+   color:white;
+   padding:10px 18px;
+   border-radius:10px;
+   text-decoration:none;
+   font-weight:bold;
+   display:inline-block;
+   box-sizing:border-box;">
+📄 Adults 18+
+</a>
+
+<a href="{{ '/Info_sheet_children.pdf' | relative_url }}"
+   target="_blank"
+   style="
+   background:#28a745;
+   color:white;
+   padding:10px 18px;
+   border-radius:10px;
+   text-decoration:none;
+   font-weight:bold;
+   display:inline-block;
+   box-sizing:border-box;">
+📄 Children 7–18
+</a>
+
+</div>
+
+<p style="margin:7px 0 0;">
+<small>
+Read more about the study and what taking part involves.
+</small>
+</p>
 
 </div>
 
@@ -524,11 +579,9 @@ Study visits take place at Trinity College Dublin.
 </div>
 
 
-<!-- DOCUMENTS -->
+<!-- HOW TO GET HERE -->
 
 <div style="text-align:center;">
-
-<!-- HOW TO GET HERE -->
 
 <a href="{{ '/HOW TO GET HERE.docx' | relative_url }}"
 style="
@@ -547,54 +600,6 @@ box-sizing:border-box;">
 <p style="margin:8px 0 15px;">
 <small>
 Step-by-step directions and a look at the experiment room.
-</small>
-</p>
-
-
-<!-- PARTICIPANT INFORMATION -->
-
-<p style="
-margin:8px 0 8px;
-font-weight:bold;">
-Participant Information
-</p>
-
-<a href="{{ '/Info_sheet_children.pdf' | relative_url }}"
-   target="_blank"
-   style="
-   background:#28a745;
-   color:white;
-   width:220px;
-   padding:10px 10px;
-   border-radius:10px;
-   text-decoration:none;
-   font-weight:bold;
-   display:inline-block;
-   box-sizing:border-box;
-   margin-bottom:8px;">
-📄 Children 7–18
-</a>
-
-<br>
-
-<a href="{{ '/Info_sheet_adults.pdf' | relative_url }}"
-   target="_blank"
-   style="
-   background:#28a745;
-   color:white;
-   width:220px;
-   padding:10px 10px;
-   border-radius:10px;
-   text-decoration:none;
-   font-weight:bold;
-   display:inline-block;
-   box-sizing:border-box;">
-📄 Adults 18+
-</a>
-
-<p style="margin:8px 0 0;">
-<small>
-Details about the study and what taking part involves.
 </small>
 </p>
 
