@@ -46,6 +46,11 @@ flex-wrap:wrap;">
   </a>
 
   <!-- ARC-HUB -->
+    <a href="https://ict.archub.ie/projects/refocus/"
+     target="_blank"
+     rel="noopener noreferrer"
+     title="Visit the ReFocus website">
+     
   <img src="{{ '/arc hub logo.jpg' | relative_url }}"
        alt="ARC-HUB"
        style="
