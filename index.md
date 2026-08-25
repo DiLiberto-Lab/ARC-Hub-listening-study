@@ -2,76 +2,65 @@
 layout: page
 ---
 
-<!-- ==================== HERO SECTION ==================== -->
+<!-- ==================== COMPACT HERO ==================== -->
 
 <div style="
 display:grid;
-grid-template-columns:1.08fr 1fr;
+grid-template-columns:1.05fr 1fr;
 align-items:stretch;
-background:#ffffff;
+background:#fff;
 border-radius:18px;
 overflow:hidden;
-margin-bottom:50px;">
+margin-bottom:35px;
+max-height:400px;">
 
-<!-- ==================== LEFT ==================== -->
+<!-- LEFT -->
 
 <div style="
-padding:24px 30px 26px 35px;
+padding:15px 25px;
 display:flex;
 flex-direction:column;
 justify-content:center;
 z-index:2;">
 
-<!-- LAB / PROJECT LOGOS -->
+<!-- LOGOS -->
 
 <div style="
 display:flex;
 align-items:center;
-gap:22px;
-margin-bottom:20px;
-flex-wrap:wrap;">
+gap:16px;
+margin-bottom:10px;">
 
-  <!-- DI LIBERTO LAB -->
+<a href="https://diliberg.net/"
+   target="_blank"
+   rel="noopener noreferrer">
 
-  <a href="https://diliberg.net/"
-     target="_blank"
-     rel="noopener noreferrer"
-     title="Visit the Di Liberto Lab website">
+<img src="{{ '/diliberto logo.png' | relative_url }}"
+     alt="Di Liberto Lab"
+     style="width:125px;height:auto;display:block;">
 
-    <img src="{{ '/diliberto logo.png' | relative_url }}"
-         alt="Di Liberto Lab"
-         style="
-         width:160px;
-         height:auto;
-         display:block;">
-  </a>
+</a>
 
+<a href="https://ict.archub.ie/projects/refocus/"
+   target="_blank"
+   rel="noopener noreferrer">
 
-  <!-- ARC-HUB / REFOCUS -->
+<img src="{{ '/arc hub logo.jpg' | relative_url }}"
+     alt="ARC-HUB"
+     style="width:75px;height:auto;display:block;">
 
-  <a href="https://ict.archub.ie/projects/refocus/"
-     target="_blank"
-     rel="noopener noreferrer"
-     title="Visit the ReFocus website">
-
-    <img src="{{ '/arc hub logo.jpg' | relative_url }}"
-         alt="ARC-HUB"
-         style="
-         width:105px;
-         height:auto;
-         display:block;">
-  </a>
+</a>
 
 </div>
 
 
-<!-- MAIN TITLE -->
+<!-- TITLE -->
 
 <h1 style="
-margin:0 0 18px;
-font-size:2.1rem;
+margin:0 0 12px;
+font-size:1.8rem;
 font-weight:700;
-line-height:1.15;
+line-height:1.1;
 color:#12346b;">
 
 Improving Listening Environments for<br>
@@ -80,56 +69,39 @@ Neurodivergent People
 </h1>
 
 
-<!-- REGISTRATION BUTTONS -->
+<!-- REGISTER -->
 
 <div style="
-display:grid;
-grid-template-columns:1fr 1fr;
-gap:10px;
-width:320px;
-max-width:100%;">
+display:flex;
+gap:8px;
+margin-bottom:10px;">
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdP3h_uarIDNoNkd0FHKkyJCRcEI0Oj3-o8kw9r71HRKKfnRg/viewform?usp=sharing&ouid=106989043313353456488"
-   target="_blank"
-   style="
-   display:flex;
-   align-items:center;
-   justify-content:center;
-   text-align:center;
-   background:#079c9f;
-   color:white;
-   padding:11px 12px;
-   min-height:48px;
-   border-radius:8px;
-   text-decoration:none;
-   font-weight:700;
-   font-size:1rem;
-   box-sizing:border-box;">
-
-Register<br>Adults 18+
-
+target="_blank"
+style="
+background:#079c9f;
+color:white;
+padding:7px 15px;
+border-radius:7px;
+text-decoration:none;
+font-weight:700;
+font-size:.9rem;
+text-align:center;">
+Register Adults 18+
 </a>
 
-
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0ELz470lfPgW2tTmqMi3jN_kwTgZ168o9qkZhby9es32TbA/viewform?usp=sharing&ouid=106989043313353456488"
-   target="_blank"
-   style="
-   display:flex;
-   align-items:center;
-   justify-content:center;
-   text-align:center;
-   background:#079c9f;
-   color:white;
-   padding:11px 12px;
-   min-height:48px;
-   border-radius:8px;
-   text-decoration:none;
-   font-weight:700;
-   font-size:1rem;
-   box-sizing:border-box;">
-
-Register<br>7–18 years
-
+target="_blank"
+style="
+background:#079c9f;
+color:white;
+padding:7px 15px;
+border-radius:7px;
+text-decoration:none;
+font-weight:700;
+font-size:.9rem;
+text-align:center;">
+Register 7–18
 </a>
 
 </div>
@@ -138,62 +110,41 @@ Register<br>7–18 years
 <!-- STUDY INFORMATION -->
 
 <p style="
-margin:17px 0 7px;
+margin:0 0 5px;
 font-weight:700;
-color:#12346b;
-font-size:1rem;">
-
+font-size:.9rem;
+color:#12346b;">
 Study Information
-
 </p>
 
-
 <div style="
-display:grid;
-grid-template-columns:1fr 1fr;
-gap:10px;
-width:320px;
-max-width:100%;">
+display:flex;
+gap:8px;">
 
 <a href="{{ '/Info_sheet_adults.pdf' | relative_url }}"
-   target="_blank"
-   style="
-   display:flex;
-   align-items:center;
-   justify-content:center;
-   text-align:center;
-   background:#28a745;
-   color:white;
-   padding:10px 12px;
-   min-height:44px;
-   border-radius:8px;
-   text-decoration:none;
-   font-weight:700;
-   box-sizing:border-box;">
-
-📄&nbsp; Adults 18+
-
+target="_blank"
+style="
+background:#28a745;
+color:white;
+padding:6px 14px;
+border-radius:7px;
+text-decoration:none;
+font-weight:700;
+font-size:.88rem;">
+📄 Adults 18+
 </a>
-
 
 <a href="{{ '/Info_sheet_children.pdf' | relative_url }}"
-   target="_blank"
-   style="
-   display:flex;
-   align-items:center;
-   justify-content:center;
-   text-align:center;
-   background:#28a745;
-   color:white;
-   padding:10px 12px;
-   min-height:44px;
-   border-radius:8px;
-   text-decoration:none;
-   font-weight:700;
-   box-sizing:border-box;">
-
-📄&nbsp; Children 7–18
-
+target="_blank"
+style="
+background:#28a745;
+color:white;
+padding:6px 14px;
+border-radius:7px;
+text-decoration:none;
+font-weight:700;
+font-size:.88rem;">
+📄 Children 7–18
 </a>
 
 </div>
@@ -201,47 +152,37 @@ max-width:100%;">
 </div>
 
 
-<!-- ==================== RIGHT / HERO IMAGE ==================== -->
+<!-- RIGHT IMAGE -->
 
 <div style="
-height:100%;
+height:400px;
 overflow:hidden;
-margin-left:-35px;
-position:relative;
-z-index:1;">
+margin-left:-30px;">
 
-<img
-src="Hero_2.png"
-alt="Neurodivergent child and adult participant"
-style="
-width:calc(100% + 35px);
-height:100%;
-object-fit:cover;
-display:block;
+<img src="Hero_2.png"
+     alt="Neurodivergent child and adult participant"
+     style="
+     width:calc(100% + 30px);
+     height:100%;
+     object-fit:cover;
+     display:block;
 
--webkit-mask-image:linear-gradient(
-to right,
-transparent 0%,
-rgba(0,0,0,.25) 5%,
-rgba(0,0,0,.65) 10%,
-rgba(0,0,0,.9) 15%,
-black 20%
-);
+     -webkit-mask-image:linear-gradient(
+     to right,
+     transparent 0%,
+     rgba(0,0,0,.5) 8%,
+     black 18%);
 
-mask-image:linear-gradient(
-to right,
-transparent 0%,
-rgba(0,0,0,.25) 5%,
-rgba(0,0,0,.65) 10%,
-rgba(0,0,0,.9) 15%,
-black 20%
-);
-">
+     mask-image:linear-gradient(
+     to right,
+     transparent 0%,
+     rgba(0,0,0,.5) 8%,
+     black 18%);
+     ">
 
 </div>
 
 </div>
-
 
 <!-- ==================== WHY THIS RESEARCH? ==================== -->
 
