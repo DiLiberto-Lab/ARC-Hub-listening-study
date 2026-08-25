@@ -125,7 +125,7 @@ Register<br>Adults 18+
    text-align:center;
    box-sizing:border-box;">
 
-Register<br>Children 7–18 years
+Register<br>7–18 years
 
 </a>
 
@@ -192,7 +192,7 @@ gap:8px;">
    text-align:center;
    box-sizing:border-box;">
 
-📄&nbsp; Information<br>Children 7–18 years
+📄&nbsp; Information<br>7–18 years
 
 </a>
 
