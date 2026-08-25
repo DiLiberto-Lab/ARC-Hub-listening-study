@@ -12,12 +12,12 @@ background:#fff;
 border-radius:18px;
 overflow:hidden;
 margin-bottom:35px;
-max-height:400px;">
+height:400px;">
 
 <!-- LEFT -->
 
 <div style="
-padding:15px 25px;
+padding:12px 25px;
 display:flex;
 flex-direction:column;
 justify-content:center;
@@ -28,8 +28,8 @@ z-index:2;">
 <div style="
 display:flex;
 align-items:center;
-gap:16px;
-margin-bottom:10px;">
+gap:18px;
+margin-bottom:8px;">
 
 <a href="https://diliberg.net/"
    target="_blank"
@@ -37,7 +37,7 @@ margin-bottom:10px;">
 
 <img src="{{ '/diliberto logo.png' | relative_url }}"
      alt="Di Liberto Lab"
-     style="width:125px;height:auto;display:block;">
+     style="width:150px;height:auto;display:block;">
 
 </a>
 
@@ -47,7 +47,7 @@ margin-bottom:10px;">
 
 <img src="{{ '/arc hub logo.jpg' | relative_url }}"
      alt="ARC-HUB"
-     style="width:75px;height:auto;display:block;">
+     style="width:90px;height:auto;display:block;">
 
 </a>
 
@@ -57,10 +57,10 @@ margin-bottom:10px;">
 <!-- TITLE -->
 
 <h1 style="
-margin:0 0 12px;
-font-size:1.8rem;
+margin:0 0 11px;
+font-size:2.05rem;
 font-weight:700;
-line-height:1.1;
+line-height:1.08;
 color:#12346b;">
 
 Improving Listening Environments for<br>
@@ -74,18 +74,18 @@ Neurodivergent People
 <div style="
 display:flex;
 gap:8px;
-margin-bottom:10px;">
+margin-bottom:9px;">
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdP3h_uarIDNoNkd0FHKkyJCRcEI0Oj3-o8kw9r71HRKKfnRg/viewform?usp=sharing&ouid=106989043313353456488"
 target="_blank"
 style="
 background:#079c9f;
 color:white;
-padding:7px 15px;
+padding:8px 15px;
 border-radius:7px;
 text-decoration:none;
 font-weight:700;
-font-size:.9rem;
+font-size:1rem;
 text-align:center;">
 Register Adults 18+
 </a>
@@ -95,11 +95,11 @@ target="_blank"
 style="
 background:#079c9f;
 color:white;
-padding:7px 15px;
+padding:8px 15px;
 border-radius:7px;
 text-decoration:none;
 font-weight:700;
-font-size:.9rem;
+font-size:1rem;
 text-align:center;">
 Register 7–18
 </a>
@@ -112,7 +112,7 @@ Register 7–18
 <p style="
 margin:0 0 5px;
 font-weight:700;
-font-size:.9rem;
+font-size:1rem;
 color:#12346b;">
 Study Information
 </p>
@@ -126,11 +126,11 @@ target="_blank"
 style="
 background:#28a745;
 color:white;
-padding:6px 14px;
+padding:7px 14px;
 border-radius:7px;
 text-decoration:none;
 font-weight:700;
-font-size:.88rem;">
+font-size:.98rem;">
 📄 Adults 18+
 </a>
 
@@ -139,11 +139,11 @@ target="_blank"
 style="
 background:#28a745;
 color:white;
-padding:6px 14px;
+padding:7px 14px;
 border-radius:7px;
 text-decoration:none;
 font-weight:700;
-font-size:.88rem;">
+font-size:.98rem;">
 📄 Children 7–18
 </a>
 
