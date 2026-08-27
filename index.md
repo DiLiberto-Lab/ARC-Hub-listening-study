@@ -400,7 +400,7 @@ About 1 hour in total: 30 minutes for the listening task, plus time for preparat
 <details style="margin-bottom:12px;">
 <summary><strong>Who is running the study?</strong></summary>
 <p>
-This study is part of ARC-Hub, a research project focused on developing more accessible technologies, and is being carried out by the Di Liberto Lab at Trinity College Dublin.
+This study is part of ReFocus, an ARC-Hub research project developing accessible listening technologies, and is being carried out by the Di Liberto Lab at Trinity College Dublin.
 </p>
 </details>
 
