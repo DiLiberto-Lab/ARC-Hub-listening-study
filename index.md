@@ -240,6 +240,47 @@ margin-left:-30px;">
 
 </div>
 
+
+<!-- ==================== WHY THIS RESEARCH? ==================== -->
+
+<div style="
+display:grid;
+grid-template-columns:1.2fr 1fr;
+gap:40px;
+align-items:center;
+margin:50px 0;">
+
+<div>
+
+<h2>Why are we doing this?</h2>
+
+<p>
+Many neurodivergent people find it difficult to focus on speech in busy listening environments such as classrooms and other group settings.
+</p>
+
+<p>
+Our research aims to understand how neurodivergent people process speech in these situations.
+</p>
+
+<p>
+Our findings can help guide future technologies and listening environments that better support neurodivergent people in everyday life.
+</p>
+
+</div>
+
+<div>
+
+<img src="{{ '/Classroom.png' | relative_url }}"
+     alt="Child in a busy classroom"
+     style="
+     width:100%;
+     border-radius:16px;">
+
+</div>
+
+</div>
+
+
 <!-- ==================== WHAT HAPPENS ON THE DAY? ==================== -->
 
 <h2>What happens on the day?</h2>
