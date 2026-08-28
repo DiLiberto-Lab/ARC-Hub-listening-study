@@ -96,7 +96,7 @@ margin-bottom:3px;">
    background:#079c9f;
    color:white;
    width:170px;
-   height:46px;
+   height:46px; 
    border-radius:7px;
    text-decoration:none;
    font-weight:700;
